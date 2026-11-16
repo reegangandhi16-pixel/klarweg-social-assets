@@ -1,0 +1,259 @@
+{
+  "batch": "2026-11-19",
+  "timezone": "Asia/Kolkata",
+  "state": "ready_for_review_not_scheduled",
+  "posts": [
+    {
+      "id": "levels-20261119-a1",
+      "level": "A1",
+      "daily_slot_ist": "00:00",
+      "intended_at": "2026-11-19T00:00:00+05:30",
+      "topic": "mögen vs möchten",
+      "facebook_image": "A1/01.jpg",
+      "threads_image": "A1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A1/01.jpg",
+          "png_path": "A1/01.png",
+          "sha256": "0186ffeb08878f5ebc799e05412fd18a85e0469f49351b3027e6fcfdf9fa7fa8",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/02.jpg",
+          "png_path": "A1/02.png",
+          "sha256": "ed5b25397ebb9d0cf46d85028900bd670d2291c8f3d643114b7e786de92ab49f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/03.jpg",
+          "png_path": "A1/03.png",
+          "sha256": "cbf6c56cdd2a8b07eff5db4babfa54e7ec2ef7a717bdaae5424e458b9d2b4ba2",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/04.jpg",
+          "png_path": "A1/04.png",
+          "sha256": "5ba982a176211c4fc275e82e220b00d469bfb0af7bbf4f8460657f559e3e7223",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 mögen vs möchten\n\nIch mag Kaffee.\nIch möchte einen Kaffee.\nmag = like • möchte = would like\n\nPractice:\n1. I like coffee: Ich ___ Kaffee.\n2. I would like a tea: Ich ___ einen Tee.\nWrite both answers in the comments.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "☕ Ich mag Kaffee. = Mujhe coffee pasand hai.\nIch möchte einen Kaffee. = Main ek coffee lena chahunga/chahungi.\n\nmag: liking • möchte: a polite wish\nQuiz: I would like a tea → Ich ___ einen Tee.\n\n🌐 https://klarweg.in\n#GermanA1 #Klarweg",
+      "instagram_caption": "🇩🇪 mögen vs möchten\n\nSwipe: lesson → rule → examples → practice.\nIch mag Kaffee.\n\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261119-a2",
+      "level": "A2",
+      "daily_slot_ist": "04:00",
+      "intended_at": "2026-11-19T04:00:00+05:30",
+      "topic": "Perfekt with sein",
+      "facebook_image": "A2/01.jpg",
+      "threads_image": "A2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A2/01.jpg",
+          "png_path": "A2/01.png",
+          "sha256": "00190942b02aebb9f174855f23d2960af820f92089c6ec466cc19e89e1f7123e",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/02.jpg",
+          "png_path": "A2/02.png",
+          "sha256": "8edd2ab159586187a2666124c125e00497782d14ea7256d91e41650da395bd3d",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/03.jpg",
+          "png_path": "A2/03.png",
+          "sha256": "1fed4c7ee6aabcf98bb022e6a92e9db640d9000179dae0b73ed84cf915182294",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/04.jpg",
+          "png_path": "A2/04.png",
+          "sha256": "28ad46e826f35c7e9411e65292742adc2c78c2e65a90945d8de9dbb4eb1b6c58",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 Perfekt with sein\n\nIch bin nach Berlin gefahren.\nbin + gefahren\nHere: travel to a destination\n\nPractice:\n1. Ich ___ nach Berlin gefahren.\n2. Ich ___ Deutsch gelernt.\nComplete with bin or habe.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🚆 Ich bin nach Berlin gefahren.\n🏠 Ich bin nach Hause gegangen.\n📚 Ich habe Deutsch gelernt.\n\nPerfekt mein verb ke saath auxiliary bhi seekho.\nQuiz: Ich ___ nach Berlin gefahren. (bin / habe)\n\n🌐 https://klarweg.in\n#GermanA2 #Klarweg",
+      "instagram_caption": "🇩🇪 Perfekt with sein\n\nSwipe: lesson → rule → examples → practice.\nIch bin nach Berlin gefahren.\n\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261119-b1",
+      "level": "B1",
+      "daily_slot_ist": "08:00",
+      "intended_at": "2026-11-19T08:00:00+05:30",
+      "topic": "obwohl vs trotzdem",
+      "facebook_image": "B1/01.jpg",
+      "threads_image": "B1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B1/01.jpg",
+          "png_path": "B1/01.png",
+          "sha256": "fa55fcb479211212beb828b45aa187ca3ad203ff4a64b943de2c6a38ede9ed73",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/02.jpg",
+          "png_path": "B1/02.png",
+          "sha256": "4e19bab34832a3554d525412698b3e5376adb9e7e0f4bd2f4911288a4853888f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/03.jpg",
+          "png_path": "B1/03.png",
+          "sha256": "4eb95cae91f7328cd2d290b60c1661cb469120b9f907e2f74e33522587b74821",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/04.jpg",
+          "png_path": "B1/04.png",
+          "sha256": "39dd5a0680710f298a3f54d1e3dde826e1b066dcc131dd93e5e2744347aa4f32",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 obwohl vs trotzdem\n\nObwohl es regnet, gehe ich spazieren.\nEs regnet. Trotzdem gehe ich spazieren.\nSame contrast, different word order\n\nPractice:\n1. Obwohl ich müde ___, lerne ich weiter.\n2. Ich bin müde. Trotzdem ___ ich weiter.\nUse bin and lerne.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🌧️ Obwohl es regnet, gehe ich spazieren.\nEs regnet. Trotzdem gehe ich spazieren.\n\nobwohl clause: verb end par.\nTrotzdem se shuru main clause: verb + subject.\nQuiz: Trotzdem ___ ich weiter. (lerne)\n\n🌐 https://klarweg.in\n#GermanB1 #Klarweg",
+      "instagram_caption": "🇩🇪 obwohl vs trotzdem\n\nSwipe: lesson → rule → examples → practice.\nObwohl es regnet, gehe ich spazieren.\n\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261119-b2",
+      "level": "B2",
+      "daily_slot_ist": "12:00",
+      "intended_at": "2026-11-19T12:00:00+05:30",
+      "topic": "Passive with modal verbs",
+      "facebook_image": "B2/01.jpg",
+      "threads_image": "B2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B2/01.jpg",
+          "png_path": "B2/01.png",
+          "sha256": "b70c9cca9e73506df4c2a7788eb276f79f2765e960cdb8c216d653ae0dc1bbc4",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/02.jpg",
+          "png_path": "B2/02.png",
+          "sha256": "5f35143db186142e5229a9b385aa63360a6a28bc97d0069cdce2da29aef7b20e",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/03.jpg",
+          "png_path": "B2/03.png",
+          "sha256": "61484c37da5e160b77b51ae4b6e529addd12007e6a89937eef9ba136d767d529",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/04.jpg",
+          "png_path": "B2/04.png",
+          "sha256": "4fda3ad7a923e5cc8d3c8cb90a588966b9b955abb8817b56485e929b0c2d93b9",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 Passive with modal verbs\n\nDie Aufgabe muss erledigt werden.\nmust be completed\nmuss + Partizip II + werden\n\nPractice:\nMake this sentence passive:\nMan muss den Antrag prüfen.\nStart: Der Antrag muss …\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "📋 Die Aufgabe muss erledigt werden.\nModal passive: muss + Partizip II + werden.\n\nActive: Man muss den Antrag prüfen.\nAb passive banao: Der Antrag muss ___ ___.\n\n🌐 https://klarweg.in\n#GermanB2 #Klarweg",
+      "instagram_caption": "🇩🇪 Passive with modal verbs\n\nSwipe: lesson → rule → examples → practice.\nDie Aufgabe muss erledigt werden.\n\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261119-c1",
+      "level": "C1",
+      "daily_slot_ist": "16:00",
+      "intended_at": "2026-11-19T16:00:00+05:30",
+      "topic": "Nominalisierung: weil → wegen",
+      "facebook_image": "C1/01.jpg",
+      "threads_image": "C1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C1/01.jpg",
+          "png_path": "C1/01.png",
+          "sha256": "411f23c093d1b579d3fd918b9ab831ba57e30931131f2dd500753d30bdaf0b6e",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/02.jpg",
+          "png_path": "C1/02.png",
+          "sha256": "e49c00fcc1385706001549b108e86f15360f5f0179649ba9b5f0c159d8c46102",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/03.jpg",
+          "png_path": "C1/03.png",
+          "sha256": "7d69b53a12775e853721b58d9b9911da55f6025cfc6e72d2613eb2c08e7a6327",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/04.jpg",
+          "png_path": "C1/04.png",
+          "sha256": "11ea8e449702dc29fbda389c95744054904892081cf6bafb09986c8ecaeb5108",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 Nominalisierung: weil → wegen\n\nWeil es stark regnet, fällt das Spiel aus.\nWegen des starken Regens fällt das Spiel aus.\nVom Nebensatz zur Nominalgruppe\n\nPractice:\nFormuliere mit wegen:\nWeil es stark schneit, bleibt die Schule geschlossen.\nBeginne: Wegen des …\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "📝 Weil es stark regnet, fällt das Spiel aus.\n→ Wegen des starken Regens fällt das Spiel aus.\n\nFormal German: wegen + Genitiv.\nTry: Weil es stark schneit, bleibt die Schule geschlossen.\n→ Wegen des …\n\n🌐 https://klarweg.in\n#GermanC1 #Klarweg",
+      "instagram_caption": "🇩🇪 Nominalisierung: weil → wegen\n\nSwipe: lesson → rule → examples → practice.\nWeil es stark regnet, fällt das Spiel aus.\n\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261119-c2",
+      "level": "C2",
+      "daily_slot_ist": "20:00",
+      "intended_at": "2026-11-19T20:00:00+05:30",
+      "topic": "nicht zuletzt vs zuletzt",
+      "facebook_image": "C2/01.jpg",
+      "threads_image": "C2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C2/01.jpg",
+          "png_path": "C2/01.png",
+          "sha256": "dc7418fc02858bac242f588b3daf3528af850b3c479a80c50ce59b9559337acc",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/02.jpg",
+          "png_path": "C2/02.png",
+          "sha256": "4c548bb4d2db2c91ed4cb9b11957b43fa82a0ccd55c02efc5d7c42c7d40c547c",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/03.jpg",
+          "png_path": "C2/03.png",
+          "sha256": "f6a175e38b8b4e143ac68ebc05f264b4cebaf59ecf7b584e5cf9d812e59d0b25",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/04.jpg",
+          "png_path": "C2/04.png",
+          "sha256": "715cae1c997ef6a5dc15a4e314d746e075a67e597f10700cac9a2af384302e8e",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 nicht zuletzt vs zuletzt\n\nNicht zuletzt die Praxis ist entscheidend.\n= unter anderem besonders die Praxis\nZuletzt besprechen wir die Kosten.\n\nPractice:\n1. ___ dank ihrer Erfahrung gelang das Projekt.\n2. Erst die Ziele, dann der Ablauf, ___ die Kosten.\nWähle: nicht zuletzt / zuletzt.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🔎 nicht zuletzt hebt etwas hervor:\nDer Erfolg beruht nicht zuletzt auf guter Planung.\n\nzuletzt ordnet etwas ein:\nZuletzt besprechen wir die Kosten.\n\nErst die Ziele, dann der Ablauf, ___ die Kosten.\nWelche Wendung passt?\n\n🌐 https://klarweg.in\n#GermanC2 #Klarweg",
+      "instagram_caption": "🇩🇪 nicht zuletzt vs zuletzt\n\nSwipe: lesson → rule → examples → practice.\nNicht zuletzt die Praxis ist entscheidend.\n\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg"
+    }
+  ]
+}
