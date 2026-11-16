@@ -1,0 +1,259 @@
+{
+  "batch": "2026-11-20",
+  "timezone": "Asia/Kolkata",
+  "state": "ready_for_review_not_scheduled",
+  "posts": [
+    {
+      "id": "levels-20261120-a1",
+      "level": "A1",
+      "daily_slot_ist": "00:00",
+      "intended_at": "2026-11-20T00:00:00+05:30",
+      "topic": "mein oder meine?",
+      "facebook_image": "A1/01.jpg",
+      "threads_image": "A1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A1/01.jpg",
+          "png_path": "A1/01.png",
+          "sha256": "2542c4e709200549382dcad7d58abe22e6666b9020588b36e9bcafe39bcc2950",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/02.jpg",
+          "png_path": "A1/02.png",
+          "sha256": "b52a22a79687ff4f1f805712aed7afc73d4794ae836d738f85c2b7f0e205f43e",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/03.jpg",
+          "png_path": "A1/03.png",
+          "sha256": "f2340f96805764b9c299a8ba261f78742971dc189397d678e6aa78fee1122393",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/04.jpg",
+          "png_path": "A1/04.png",
+          "sha256": "36855e74e82dcecb51b94661fb8e831cfd0a6b32b19bf35675f8c5f1738267c3",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 mein oder meine?\n\nDas ist mein Bruder.\nDas ist meine Schwester.\nmein: masculine • meine: feminine\n\nPractice:\n1. Das ist ___ Vater.\n2. Das ist ___ Mutter.\nChoose mein or meine.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "👨‍👩‍👧 mein Bruder • meine Schwester • mein Buch\n\nNominative singular mein: masculine/neuter, meine: feminine.\nQuiz: Das ist ___ Vater. Das ist ___ Mutter.\nChoose mein or meine.\n\n🌐 https://klarweg.in\n#GermanA1 #Klarweg",
+      "instagram_caption": "🇩🇪 mein oder meine?\n\nDas ist mein Bruder.\n\nSwipe karke rule aur examples dekho. Last slide par practice hai—apna answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261120-a2",
+      "level": "A2",
+      "daily_slot_ist": "04:00",
+      "intended_at": "2026-11-20T04:00:00+05:30",
+      "topic": "Comparatives with als",
+      "facebook_image": "A2/01.jpg",
+      "threads_image": "A2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A2/01.jpg",
+          "png_path": "A2/01.png",
+          "sha256": "8dc8ee3c26c7365383d837c0fdba3dc4c32ed52cdf74229b4e8c5d03afc772ba",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/02.jpg",
+          "png_path": "A2/02.png",
+          "sha256": "51e8a52a0494a454bf26db0dcbb7f1ab649764795be004775520fb328651049a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/03.jpg",
+          "png_path": "A2/03.png",
+          "sha256": "3c718c22a2d2ca727271f8ad3e772a98111642d707a2816f95dd9f05fa8e323a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/04.jpg",
+          "png_path": "A2/04.png",
+          "sha256": "5adf105c239186c2ce194938dab8db86c542fd9343795789ed727662e3cd6c79",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 Comparatives with als\n\nBerlin ist größer als Bonn.\ngrößer = bigger\nUse als for unequal comparisons.\n\nPractice:\n1. Berlin ist größer ___ Bonn.\n2. schnell → ___\nWrite both answers in the comments.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🚆 Der Zug ist schneller als der Bus.\nComparative + als = unequal comparison.\n\ngroß → größer\nteuer → teurer\n\nQuiz: Berlin ist größer ___ Bonn.\n\n🌐 https://klarweg.in\n#GermanA2 #Klarweg",
+      "instagram_caption": "🇩🇪 Comparatives with als\n\nBerlin ist größer als Bonn.\n\nSwipe karke rule aur examples dekho. Last slide par practice hai—apna answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261120-b1",
+      "level": "B1",
+      "daily_slot_ist": "08:00",
+      "intended_at": "2026-11-20T08:00:00+05:30",
+      "topic": "Relative clauses: der oder den?",
+      "facebook_image": "B1/01.jpg",
+      "threads_image": "B1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B1/01.jpg",
+          "png_path": "B1/01.png",
+          "sha256": "8571e18b67d52228b6a9e3a046cc7a99a3652ad2425571204ae28717f5104967",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/02.jpg",
+          "png_path": "B1/02.png",
+          "sha256": "8b5ccd6bbd7c669f2ff75ac351c0cd645a90c36b93aa0e21e9c548d7f875fc68",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/03.jpg",
+          "png_path": "B1/03.png",
+          "sha256": "0b50f470351c98f0c6df33a163c1ed9e9a0923158ace2e12eb686e92948cefe6",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/04.jpg",
+          "png_path": "B1/04.png",
+          "sha256": "5dc49f4bee5da44a1b9d507446a21098bec3440757468cb4720a6759eee26211",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 Relative clauses: der oder den?\n\nDas ist der Mann, der hier wohnt.\nDas ist der Mann, den ich kenne.\nPronoun case depends on its role in the relative clause.\n\nPractice:\n1. Der Mann, ___ dort steht, ist mein Lehrer.\n2. Der Mann, ___ ich sehe, ist mein Lehrer.\nChoose der or den.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "👤 Der Mann, der hier wohnt …\nder = subject.\nDer Mann, den ich kenne …\nden = object; ich = subject.\n\nRelative pronoun ka case clause mein uske role se aata hai.\nQuiz: Der Mann, ___ ich sehe …\n\n🌐 https://klarweg.in\n#GermanB1 #Klarweg",
+      "instagram_caption": "🇩🇪 Relative clauses: der oder den?\n\nDas ist der Mann, der hier wohnt.\n\nSwipe karke rule aur examples dekho. Last slide par practice hai—apna answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261120-b2",
+      "level": "B2",
+      "daily_slot_ist": "12:00",
+      "intended_at": "2026-11-20T12:00:00+05:30",
+      "topic": "lassen + infinitive",
+      "facebook_image": "B2/01.jpg",
+      "threads_image": "B2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B2/01.jpg",
+          "png_path": "B2/01.png",
+          "sha256": "914858b3d39a137e7182606eab38ef3eace2858e632bfdfe0b54eae51efc3b67",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/02.jpg",
+          "png_path": "B2/02.png",
+          "sha256": "edb656255c57ac22144f3e76238dffdaa179eec4b54c45749dd514f11b4f23ae",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/03.jpg",
+          "png_path": "B2/03.png",
+          "sha256": "46171e242d2b5198cd3e4b283d4c95e1b33604433728f9016f91389afb79b376",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/04.jpg",
+          "png_path": "B2/04.png",
+          "sha256": "5e7dde5b1f21b53576aaf29e83ec17b74473ec7170d004752b01f8a2be962194",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 lassen + infinitive\n\nIch lasse mein Fahrrad reparieren.\nI have my bicycle repaired.\nlassen + object + infinitive\n\nPractice:\nI have my car repaired.\nIch ___ mein Auto ___.\nUse lassen and reparieren.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🚲 Ich repariere mein Fahrrad. = I repair it myself.\nIch lasse mein Fahrrad reparieren. = I have it repaired.\n\nlassen + object + infinitive, without zu.\nQuiz: Ich ___ mein Auto ___. (lassen / reparieren)\n\n🌐 https://klarweg.in\n#GermanB2 #Klarweg",
+      "instagram_caption": "🇩🇪 lassen + infinitive\n\nIch lasse mein Fahrrad reparieren.\n\nSwipe karke rule aur examples dekho. Last slide par practice hai—apna answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261120-c1",
+      "level": "C1",
+      "daily_slot_ist": "16:00",
+      "intended_at": "2026-11-20T16:00:00+05:30",
+      "topic": "als ob: irreale Vergleiche",
+      "facebook_image": "C1/01.jpg",
+      "threads_image": "C1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C1/01.jpg",
+          "png_path": "C1/01.png",
+          "sha256": "22a3e029e9c5cf3e8e2aa2b6a024ab8eda2c5140cdb2ac0a02943cfcf1ec32dd",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/02.jpg",
+          "png_path": "C1/02.png",
+          "sha256": "de073d15fd2400fcf48e9c0154d458579985c3b8f7edf0578eda16fd0fe5cef0",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/03.jpg",
+          "png_path": "C1/03.png",
+          "sha256": "04d64e6a8ecb611113de56cc93f9b103d20ed4516faec37bd4c0da001c097be7",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/04.jpg",
+          "png_path": "C1/04.png",
+          "sha256": "ef0f81757ce85001d7da94975a01384e151d1725c73909a16230ba32e30a1c1c",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 als ob: irreale Vergleiche\n\nEr tut so, als ob er alles wüsste.\nEin Eindruck, keine bestätigte Tatsache.\nals ob + Konjunktiv II\n\nPractice:\nEr tut so, als ob er alles ___.\nVerwende wissen im Konjunktiv II der Gegenwart.\nSchreibe deinen Satz in die Kommentare.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🎭 Er tut so, als ob er alles wüsste.\nwüsste = Konjunktiv II von wissen.\n\nYahan ek impression describe ho raha hai; statement ko fact confirm nahi kiya gaya.\nPast comparison: als ob sie dabei gewesen wäre.\n\n🌐 https://klarweg.in\n#GermanC1 #Klarweg",
+      "instagram_caption": "🇩🇪 als ob: irreale Vergleiche\n\nEr tut so, als ob er alles wüsste.\n\nSwipe karke rule aur examples dekho. Last slide par practice hai—apna answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261120-c2",
+      "level": "C2",
+      "daily_slot_ist": "20:00",
+      "intended_at": "2026-11-20T20:00:00+05:30",
+      "topic": "geschweige denn: noch weniger",
+      "facebook_image": "C2/01.jpg",
+      "threads_image": "C2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C2/01.jpg",
+          "png_path": "C2/01.png",
+          "sha256": "f58ab1ad16618ffbc27d44f3467dda9994c105ff3c4ed02aad16481d613df22a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/02.jpg",
+          "png_path": "C2/02.png",
+          "sha256": "13b9008f64e22279832116afa9ef2f7be5f195463188acc303e2ffc3d3391254",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/03.jpg",
+          "png_path": "C2/03.png",
+          "sha256": "74a9c5a634f328dc7ff42a19966c8112ee357a85fec1ab8a247253d41adeffc6",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/04.jpg",
+          "png_path": "C2/04.png",
+          "sha256": "4342cb14c318943ba59078f8492346bb942e11986bc10b9bf5c70e5716a77312",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 geschweige denn: noch weniger\n\nEr hat keine Zeit für eine Pause, geschweige denn für Urlaub.\nNicht einmal eine Pause — noch weniger Urlaub.\ngeschweige denn verstärkt hier die Verneinung.\n\nPractice:\nEr hat keine Zeit für eine Pause, geschweige denn ___.\nA: für Urlaub\nB: aber er macht Urlaub\nWelche Fortsetzung passt zur Steigerung?\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "⏳ Er hat keine Zeit für eine Pause, geschweige denn für Urlaub.\n\nNot even a break—let alone a holiday.\nHere, geschweige denn makes the negative stronger.\n\nQuiz: Er kann kaum gehen, geschweige denn ___.\nTry a logical continuation.\n\n🌐 https://klarweg.in\n#GermanC2 #Klarweg",
+      "instagram_caption": "🇩🇪 geschweige denn: noch weniger\n\nEr hat keine Zeit für eine Pause, geschweige denn für Urlaub.\n\nSwipe karke rule aur examples dekho. Last slide par practice hai—apna answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg"
+    }
+  ]
+}
