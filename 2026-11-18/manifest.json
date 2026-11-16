@@ -1,0 +1,259 @@
+{
+  "batch": "2026-11-18",
+  "timezone": "Asia/Kolkata",
+  "state": "ready_for_review_not_scheduled",
+  "posts": [
+    {
+      "id": "levels-20261118-a1",
+      "level": "A1",
+      "daily_slot_ist": "00:00",
+      "intended_at": "2026-11-18T00:00:00+05:30",
+      "topic": "Halb acht means 7:30",
+      "facebook_image": "A1/01.jpg",
+      "threads_image": "A1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A1/01.jpg",
+          "png_path": "A1/01.png",
+          "sha256": "45436d9370979c743fe0aa9d1005c36c1fbd141de718a5918b9852449e0af74a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/02.jpg",
+          "png_path": "A1/02.png",
+          "sha256": "232ae4c4f20e383de8543860ea2ca93f23fc16b25231560698bdc1cdc44f3ac0",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/03.jpg",
+          "png_path": "A1/03.png",
+          "sha256": "c8715b126a6b793621d333b5cb53a2757a2fd6dba5034ed67cdf4f1f028bcc71",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/04.jpg",
+          "png_path": "A1/04.png",
+          "sha256": "07648ecb0124381a31ab4541a12a507b7cdde10ce5c344a067102c844d970d1e",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🕢 Halb acht German mein 8:30 nahi, 7:30 hota hai!\n\nEs ist halb acht. = 7:30 baj rahe hain.\nRule: halb ke baad NEXT hour aata hai.\nHalb neun = 8:30.\n\nQuiz: halb zehn ka time kya hoga? Aur 6:30 ko German mein kaise kahoge?\nDono answers comments mein likho.\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🕢 halb acht = 7:30, not 8:30!\nGerman mein halb ke baad next hour aata hai.\nEs ist halb acht.\n\nQuiz: halb zehn = ?\nBonus: 6:30 = halb ___\n\n🌐 https://klarweg.in\n#GermanA1 #Klarweg",
+      "instagram_caption": "🕢 Halb acht dekhkar 8:30 socha? Swipe karke German time ka simple rule seekho.\n\nExamples, short conversation aur last slide par mini quiz. Apne dono answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261118-a2",
+      "level": "A2",
+      "daily_slot_ist": "04:00",
+      "intended_at": "2026-11-18T04:00:00+05:30",
+      "topic": "Trennbare Verben: aufstehen",
+      "facebook_image": "A2/01.jpg",
+      "threads_image": "A2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A2/01.jpg",
+          "png_path": "A2/01.png",
+          "sha256": "e75973f7f956fab7943a93bf0ddaea8d1f5c695c8bc84e245e3e680e3a91d7f0",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/02.jpg",
+          "png_path": "A2/02.png",
+          "sha256": "ba26a4750cb09256d44275f4140abe638ece4ca2bfc2a3ed15ecfec321277397",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/03.jpg",
+          "png_path": "A2/03.png",
+          "sha256": "8411cbd9177adc8df13b3d3e9600ab41d0d1737a58ad4a7195ec4091138603b6",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/04.jpg",
+          "png_path": "A2/04.png",
+          "sha256": "ff830bf16ffef8ccae8d6dd47184379d980201e4b0a685640ab2e6f748cbe165",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "⏰ Ich stehe um sieben Uhr auf.\nAufstehen ka auf sentence ke end mein kyun hai? Ye trennbares Verb hai!\n\nMain clause: Ich stehe früh auf.\nModal verb ke saath: Ich muss früh aufstehen.\n\nAb complete karo: Ich ___ jeden Morgen früh ___. / Ich muss morgen früh ___.\nUse: aufstehen.\n\n🌐 https://klarweg.in\n#GermanA2 #TrennbareVerben #DeutschLernen #Klarweg",
+      "threads_text": "aufstehen → Ich stehe früh auf. ⏰\nBut: Ich muss früh aufstehen.\n\nMain clause mein prefix end par. Modal verb ke saath full infinitive end par saath rehta hai.\n\nWann stehst du auf?\n🌐 https://klarweg.in\n#GermanA2 #Klarweg",
+      "instagram_caption": "⏰ Stehe … auf ya muss … aufstehen?\nSwipe karke separable verbs ka word order compare karo.\n\nMain clause, modal verb aur last slide par do practice sentences. Apna answer comments mein likho!\n\n🌐 https://klarweg.in\n#GermanA2 #TrennbareVerben #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261118-b1",
+      "level": "B1",
+      "daily_slot_ist": "08:00",
+      "intended_at": "2026-11-18T08:00:00+05:30",
+      "topic": "Purpose: um … zu or damit?",
+      "facebook_image": "B1/01.jpg",
+      "threads_image": "B1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B1/01.jpg",
+          "png_path": "B1/01.png",
+          "sha256": "6d044ab30ee14d02b0df7e6e0d0ad620fda98bb7ae9773164d17992556da4c14",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/02.jpg",
+          "png_path": "B1/02.png",
+          "sha256": "5496b081b5e533a11cb41670ba620cc6ccf5af4f4bac66569fa45854a09c3d30",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/03.jpg",
+          "png_path": "B1/03.png",
+          "sha256": "9c405d1adb7f59b0b1cd948e8faeebb3b4fad3c4b0f4454cd35115339cc9582e",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/04.jpg",
+          "png_path": "B1/04.png",
+          "sha256": "76891ec4c8decfad9565d2f49e98382483cb21b96552566bad3d86c2fa649e24",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🎯 Goal batana hai? Um … zu aur damit compare karo:\n\nIch lerne Deutsch, um in Deutschland zu studieren. → Dono actions mein subject ich hai.\nIch spreche langsam, damit du mich verstehst. → Subject ich se du ho gaya.\n\nSame subject ke saath damit bhi possible hai. Different subject wale example mein damit use karo.\nQuiz: Ich spare Geld, ___ eine Reise zu machen. / Ich erkläre es noch einmal, ___ du es verstehst.\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🎯 Ich lerne Deutsch, um in Deutschland zu studieren.\nIch spreche langsam, damit du mich verstehst.\n\nSame person: um … zu is useful. Different subject: damit + verb at the end.\nSame subject ke saath damit bhi possible hai.\n\n🌐 https://klarweg.in\n#GermanB1 #Klarweg",
+      "instagram_caption": "🎯 Tum German kyun seekh rahe ho?\nUm … zu aur damit se purpose express karo.\n\nSwipe for same-subject aur different-subject examples. Last slide ke blanks fill karo—aur yaad rakho: same subject ke saath damit bhi possible hai.\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261118-b2",
+      "level": "B2",
+      "daily_slot_ist": "12:00",
+      "intended_at": "2026-11-18T12:00:00+05:30",
+      "topic": "Je … desto: linked comparisons",
+      "facebook_image": "B2/01.jpg",
+      "threads_image": "B2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B2/01.jpg",
+          "png_path": "B2/01.png",
+          "sha256": "002133155880755c363cecb89e80c07ada1d6de4a1e7f4f4a50b34893b193d3a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/02.jpg",
+          "png_path": "B2/02.png",
+          "sha256": "f7b193e6d91639a26ec9d18a832433c7c8c31e2448f12996343ecb736ad155f0",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/03.jpg",
+          "png_path": "B2/03.png",
+          "sha256": "98d28431558a12c992a91df429fa1a5465587cd79d721ca697e5aae6d782ae5b",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/04.jpg",
+          "png_path": "B2/04.png",
+          "sha256": "d83fe33c59a94d04466b40a798b89d65774ff179b4042d8b9e5ac293774777ab",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "📈 Je mehr du übst, desto sicherer sprichst du.\n\nJe clause mein verb end par: Je mehr du übst.\nDesto clause mein comparative phrase ke baad verb, phir subject: desto sicherer sprichst du.\n\nAb words order mein lagao: Je mehr du übst, … [du / sprichst / desto sicherer]\nComplete sentence comments mein likho!\n\n🌐 https://klarweg.in\n#GermanB2 #JeDesto #DeutschLernen #Klarweg",
+      "threads_text": "Je mehr du übst, desto sicherer sprichst du. 📈\n\nje clause → verb at the end\ndesto clause → comparative phrase + verb + subject\n\nTry: Je mehr du übst, …\n[du / sprichst / desto sicherer]\n\n🌐 https://klarweg.in\n#GermanB2 #Klarweg",
+      "instagram_caption": "📈 Je … desto: linked comparisons ka word order seekho.\n\nJe mehr du übst, desto sicherer sprichst du.\nSwipe karke clauses compare karo aur last slide ka sentence assemble karo. Apna full answer comments mein likho!\n\n🌐 https://klarweg.in\n#GermanB2 #JeDesto #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261118-c1",
+      "level": "C1",
+      "daily_slot_ist": "16:00",
+      "intended_at": "2026-11-18T16:00:00+05:30",
+      "topic": "Konjunktiv I: neutral reporting",
+      "facebook_image": "C1/01.jpg",
+      "threads_image": "C1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C1/01.jpg",
+          "png_path": "C1/01.png",
+          "sha256": "bfd7680605f28ca8ad8ad878312a6e70d0e1edf7b662fd59c747886a64ec4137",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/02.jpg",
+          "png_path": "C1/02.png",
+          "sha256": "af3f2b4929915050388e67a52de166a52e9bcb984332d79e1f05c77e726787f8",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/03.jpg",
+          "png_path": "C1/03.png",
+          "sha256": "914b6c097c7563520a4cb93aabd8f71100ec90e26789f21a0ab5beec5cf1b433",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/04.jpg",
+          "png_path": "C1/04.png",
+          "sha256": "548c668b3f12a2e6a2bb26596db3c9095e4a20ec75c013f91e08ed2c5b12c151",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "Eine Aussage wiedergeben, ohne sie als eigene Feststellung zu übernehmen:\n\nSie sagt: „Ich habe keine Zeit.“\n→ Sie sagt, sie habe keine Zeit.\n\nDer Konjunktiv I markiert hier indirekte Rede. Auch Vergangenes lässt sich so berichten: Er berichtet, er habe den Bericht gelesen.\n\nDeine Aufgabe: Der Sprecher erklärt: „Ich habe die Unterlagen geprüft.“ Formuliere in indirekter Rede.\n\n🌐 https://klarweg.in\n#DeutschC1 #KonjunktivI #DeutschLernen #Klarweg",
+      "threads_text": "C1: fremde Aussagen wiedergeben\n„Ich habe keine Zeit“, sagt sie.\n→ Sie sagt, sie habe keine Zeit.\n\nDie Wiedergabe bestätigt nicht automatisch die Richtigkeit.\nDeine Aufgabe: Der Sprecher erklärt: „Ich habe die Unterlagen geprüft.“\n\n🌐 https://klarweg.in\n#DeutschC1 #Klarweg",
+      "instagram_caption": "Wiedergeben statt bestätigen: Mit dem Konjunktiv I markierst du fremde Aussagen.\n\nSwipe durch direkte Rede, indirekte Rede und ein Beispiel zur Vergangenheit. Formuliere den letzten Satz selbst um und schreibe ihn in die Kommentare.\n\n🌐 https://klarweg.in\n#DeutschC1 #KonjunktivI #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261118-c2",
+      "level": "C2",
+      "daily_slot_ist": "20:00",
+      "intended_at": "2026-11-18T20:00:00+05:30",
+      "topic": "Sofern vs insofern, als: condition and scope",
+      "facebook_image": "C2/01.jpg",
+      "threads_image": "C2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C2/01.jpg",
+          "png_path": "C2/01.png",
+          "sha256": "ba2911807268a047b404397ad8b93c8d89b3825e17d7f1454a1caa41ab8d3050",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/02.jpg",
+          "png_path": "C2/02.png",
+          "sha256": "e2e56cf8171ea05fd36b2532e6d8c561addbbcd0526e3981e2a5bf4e07408b0f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/03.jpg",
+          "png_path": "C2/03.png",
+          "sha256": "b1dcbafb9209290e81125a5be9db46873e0d974d5e4c3a6fd4b56a4bc6a2044a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/04.jpg",
+          "png_path": "C2/04.png",
+          "sha256": "e6b40e57621282dc6f0be95bcf2871decad1cbef4825edea0145717688918058",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "Sofern und insofern, als: Zwei Verbindungen, zwei Funktionen in diesen Beispielen.\n\nWir stimmen zu, sofern die Finanzierung gesichert ist. → Eine Voraussetzung.\nDie Methode überzeugt insofern, als sie transparent ist. → Eine Bewertung mit begrenztem Geltungsbereich.\n\nDeine Wahl: „Die Lösung überzeugt ___, als sie ohne Zusatzkosten auskommt.“ Begründe, welchen Teil der Bewertung du eingrenzt.\n\n🌐 https://klarweg.in\n#DeutschC2 #PräziserAusdruck #DeutschLernen #Klarweg",
+      "threads_text": "Sofern: hier eine Voraussetzung.\n„Wir stimmen zu, sofern die Finanzierung gesichert ist.“\n\nInsofern, als: hier eine begrenzte Bewertung.\n„Die Methode überzeugt insofern, als sie transparent ist.“\n\nFormuliere einen eigenen Satz mit einer der Verbindungen.\n🌐 https://klarweg.in\n#DeutschC2 #Klarweg",
+      "instagram_caption": "Eine Voraussetzung nennen oder den Geltungsbereich einer Bewertung eingrenzen?\n\nSwipe durch sofern und insofern, als. Achte auf die Funktion im jeweiligen Satz und begründe deine Wahl im Quiz auf der letzten Folie.\n\nSpeichere den Beitrag für präziseren Ausdruck.\n\n🌐 https://klarweg.in\n#DeutschC2 #PräziserAusdruck #DeutschLernen #Klarweg"
+    }
+  ]
+}
