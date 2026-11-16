@@ -1,0 +1,253 @@
+{
+  "batch": "2026-11-17",
+  "timezone": "Asia/Kolkata",
+  "state": "ready_for_review_not_scheduled",
+  "posts": [
+    {
+      "id": "levels-20261117-a1",
+      "level": "A1",
+      "daily_slot_ist": "00:00",
+      "topic": "kein oder nicht?",
+      "facebook_image": "A1/01.jpg",
+      "threads_image": "A1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A1/01.jpg",
+          "png_path": "A1/01.png",
+          "sha256": "a959bb641ee4f4e4d1cb39b5545a4679f6254f8e2afdff4f35a048574d599977",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/02.jpg",
+          "png_path": "A1/02.png",
+          "sha256": "fbdd1ec87ea403cba3e2d92d3532b8a1010eab9d1d6646adc1073cb887f09d9d",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/03.jpg",
+          "png_path": "A1/03.png",
+          "sha256": "ea6cc062bf6fabb42cd9b53f688601f239be56783e7a7c8fe1f0c63d22a2949f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/04.jpg",
+          "png_path": "A1/04.png",
+          "sha256": "b46c77beec1c3a18377f5c45addc4c61515cf4e5ad76912b3ac5cf0b7bbd25c4",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 No coffee aur not hot mein German ka farq dekho!\n\n☕ Ich habe keinen Kaffee. = Mere paas coffee nahi hai.\n☕ Der Kaffee ist nicht heiß. = Coffee garam nahi hai.\n\nYahan keinen noun ke saath aur nicht adjective heiß ke saath aata hai.\nQuiz: Ich habe ___ Milch. Der Kaffee ist ___ heiß.\nApne dono answers comments mein likho!\n\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #Klarweg",
+      "threads_text": "☕ No coffee? German mein:\nIch habe keinen Kaffee. = I have no coffee.\nDer Kaffee ist nicht heiß. = The coffee is not hot.\n\nFill in: Ich habe ___ Milch. Der Kaffee ist ___ heiß.\n\n🌐 https://klarweg.in\n#GermanA1 #Klarweg",
+      "instagram_caption": "☕ Kein ya nicht? Swipe karke examples aur mini quiz dekho.\n\nIch habe keinen Kaffee.\nDer Kaffee ist nicht heiß.\n\nLast slide ke dono answers comments mein likho. Is lesson ko save kar lo!\n\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261117-a2",
+      "level": "A2",
+      "daily_slot_ist": "04:00",
+      "topic": "Wo oder wohin? In der / in die",
+      "facebook_image": "A2/01.jpg",
+      "threads_image": "A2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A2/01.jpg",
+          "png_path": "A2/01.png",
+          "sha256": "f41034a52a6a933f53d06f602f9b3a652e69474a3210288eea717ad609267155",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/02.jpg",
+          "png_path": "A2/02.png",
+          "sha256": "5ac3b77a8dd150e8141c9eded7760262a3c5865ef7a29ae177e52a12e1331c32",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/03.jpg",
+          "png_path": "A2/03.png",
+          "sha256": "a3c0d112c1da896c7731c8b696b403dd484f1b77745f28ba9b6d3a867b066d6f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/04.jpg",
+          "png_path": "A2/04.png",
+          "sha256": "02b89929e48b470dab80ef00e8586b0e192ba7495fd00fc2bffdb1060ff83327",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "📚 In die Tasche ya in der Tasche?\n\nWohin? Ich lege das Buch in die Tasche. → Akkusativ\nWo? Das Buch liegt in der Tasche. → Dativ\n\nSirf movement dekhkar case choose mat karo: Ich jogge im Park bhi Dativ hai, kyunki sawal Wo? hai.\nQuiz: Das Buch liegt in ___ Tasche. / Ich lege das Buch in ___ Tasche.\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "📚 Ich lege das Buch in die Tasche. → Wohin?\nDas Buch liegt in der Tasche. → Wo?\n\nWith in: destination = Akkusativ, location = Dativ.\nMovement alone isn't the rule: Ich jogge im Park.\n\nQuiz: Das Buch liegt in ___ Tasche.\n🌐 https://klarweg.in\n#GermanA2 #Klarweg",
+      "instagram_caption": "📚 Wo ya wohin? Ye sawal Akkusativ aur Dativ choose karne mein help karta hai.\n\nSwipe: rule → examples → quiz. Bonus: movement hote hue bhi im Park Dativ kyun hai?\n\nLast slide ke dono articles comments mein likho aur lesson save karo.\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261117-b1",
+      "level": "B1",
+      "daily_slot_ist": "08:00",
+      "topic": "Seit oder vor? Ongoing vs past point",
+      "facebook_image": "B1/01.jpg",
+      "threads_image": "B1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B1/01.jpg",
+          "png_path": "B1/01.png",
+          "sha256": "3341ab49182d429eb9955324928c87d1dc6d107e177e6123d209bfbae5d2ac7e",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/02.jpg",
+          "png_path": "B1/02.png",
+          "sha256": "d2503698f73b314c269747edf8df10e9551a59fbffc1488875a2dc6af4e11cfc",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/03.jpg",
+          "png_path": "B1/03.png",
+          "sha256": "fd9dbcfc29476d1ef0909293953099014550ac5647336163bf5d2b207b89d53f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/04.jpg",
+          "png_path": "B1/04.png",
+          "sha256": "c76269385fc9468aab96126db58a7b7248a8fb258759a059c058d2105ddd6ac8",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "⏳ Seit zwei Jahren aur vor zwei Jahren ek jaise nahi hain.\n\nIch lerne seit zwei Jahren Deutsch. → Abhi bhi seekh raha/rahi hoon.\nIch habe vor zwei Jahren angefangen. → Shuru karne ka time past mein hai.\n\nQuiz: Ich wohne ___ drei Jahren hier. / Ich bin ___ drei Jahren hierhergezogen.\nSeit ya vor? Comments mein batao.\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "Seit ≠ vor ⏳\nIch lerne seit zwei Jahren Deutsch. → ongoing\nIch habe vor zwei Jahren angefangen. → started two years ago\n\nChoose: Ich wohne ___ drei Jahren hier.\nBonus: Ich bin ___ drei Jahren hierhergezogen.\n\n🌐 https://klarweg.in\n#GermanB1 #Klarweg",
+      "instagram_caption": "⏳ Two years se seekh rahe ho, ya two years ago shuru kiya tha?\nGerman mein seit aur vor ka ye farq yaad rakho.\n\nSwipe for the rule, examples aur quiz. Last slide ke dono answers comments mein likho!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261117-b2",
+      "level": "B2",
+      "daily_slot_ist": "12:00",
+      "topic": "Konjunktiv II Vergangenheit: unreal past",
+      "facebook_image": "B2/01.jpg",
+      "threads_image": "B2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B2/01.jpg",
+          "png_path": "B2/01.png",
+          "sha256": "b12ce18eca49e8fb04d6c32f91783f8288123d66d8628d9af8799befd37f7a75",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/02.jpg",
+          "png_path": "B2/02.png",
+          "sha256": "2c517529448766415d0d86485972ff0d7f7e46d94a159278dc6815b14ae98c25",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/03.jpg",
+          "png_path": "B2/03.png",
+          "sha256": "f06151b61d7474471a753cdf779d66a1737cffe49e37c0a52a46f63649b289df",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/04.jpg",
+          "png_path": "B2/04.png",
+          "sha256": "ca7cde49c9c687c2dcdc415fdb6982d22add1a0ed4389c83ed45450543d04c88",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "⏰ Past regrets German mein kaise bolte hain?\n\nWenn ich früher gelernt hätte, hätte ich die Prüfung bestanden.\n\nKonjunktiv II der Vergangenheit: hätte/wäre + Partizip II. Hum past ka ek unreal alternative imagine kar rahe hain.\n\nComplete karo: Wenn ich früher losgegangen ___, ___ ich den Zug erwischt.\n\n🌐 https://klarweg.in\n#GermanB2 #KonjunktivII #DeutschLernen #Klarweg",
+      "threads_text": "A different past, in German:\nWenn ich früher gelernt hätte, hätte ich die Prüfung bestanden.\n\nhätte/wäre + Partizip II\nQuiz: Wenn ich früher losgegangen ___, ___ ich den Zug erwischt.\n\n🌐 https://klarweg.in\n#GermanB2 #Klarweg",
+      "instagram_caption": "⏰ If only… German mein unreal past banana seekho.\n\nWenn ich früher gelernt hätte, hätte ich die Prüfung bestanden.\n\nSwipe for hätte/wäre, word order aur train wala quiz. Last slide ka complete sentence comments mein likho!\n\n🌐 https://klarweg.in\n#GermanB2 #KonjunktivII #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261117-c1",
+      "level": "C1",
+      "daily_slot_ist": "16:00",
+      "topic": "Partizipialattribute: compact formal German",
+      "facebook_image": "C1/01.jpg",
+      "threads_image": "C1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C1/01.jpg",
+          "png_path": "C1/01.png",
+          "sha256": "2cd089aa8c288f59855500cc0989c5160b014c2c7fa23161fadff9c582c47aee",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/02.jpg",
+          "png_path": "C1/02.png",
+          "sha256": "f34c2918231134c1b10a305fe4426f4ac7c3a937cc911ee1c7cf511285c27efd",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/03.jpg",
+          "png_path": "C1/03.png",
+          "sha256": "1faa881cab27ed28c956ffd0e743ac3f3efc683627cfeb684b38737aafb811ae",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/04.jpg",
+          "png_path": "C1/04.png",
+          "sha256": "f1016f6db8fe3e9dc9b5f0a88b09b17b77b98bafd8c6ac754d1ff7ca61583d5d",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "Präziser und kompakter schreiben:\n\nDie Mieten, die seit Monaten steigen, belasten viele Haushalte.\n→ Die seit Monaten steigenden Mieten belasten viele Haushalte.\n\nDas Partizipialattribut wird wie ein Adjektiv dekliniert. Nutze solche Verdichtungen gezielt, damit dein Text verständlich bleibt.\n\nDeine Aufgabe: Formuliere „Die Maßnahmen, die gestern beschlossen wurden, treten morgen in Kraft.“ mit einem Partizipialattribut um.\n\n🌐 https://klarweg.in\n#DeutschC1 #DeutschLernen #Klarweg",
+      "threads_text": "C1: kompakter formulieren\n„Die Mieten, die seit Monaten steigen“ → „die seit Monaten steigenden Mieten“.\n\nDein Versuch: Die Maßnahmen, die gestern beschlossen wurden, treten morgen in Kraft.\nBeginne mit „Die gestern …“.\n\n🌐 https://klarweg.in\n#DeutschC1 #Klarweg",
+      "instagram_caption": "Vom Relativsatz zum Partizipialattribut: So verdichtest du Informationen im formellen Deutsch.\n\nSwipe durch Beispiele mit steigenden Mieten und einer veröffentlichten Studie. Auf der letzten Folie wartet deine Umformulierung.\n\nSchreibe deinen Satz in die Kommentare und speichere die Beispiele.\n\n🌐 https://klarweg.in\n#DeutschC1 #Partizipialattribute #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261117-c2",
+      "level": "C2",
+      "daily_slot_ist": "20:00",
+      "topic": "Anscheinend oder scheinbar? A precise distinction",
+      "facebook_image": "C2/01.jpg",
+      "threads_image": "C2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C2/01.jpg",
+          "png_path": "C2/01.png",
+          "sha256": "c663baa4c03fa2bd7cc76c50ff11ce7efdfdd4f98d466f26d75fbacc94aa2df2",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/02.jpg",
+          "png_path": "C2/02.png",
+          "sha256": "2552b12adee08e367e34c78a78d04a04b6a94dee88ac18d4447347398a84ea01",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/03.jpg",
+          "png_path": "C2/03.png",
+          "sha256": "b95be5b041da46d76535fb2dd63ef3f0d9ca6ef91aad2a19b0f54042fcd780a4",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/04.jpg",
+          "png_path": "C2/04.png",
+          "sha256": "66d7cee21d05895c8d4804016d8a043aec586e74c836c73610c7dfbec2c28b6e",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "Anscheinend und scheinbar: Im präzisen Sprachgebrauch liegt hier ein Unterschied.\n\nAnscheinend fällt der Kurs aus; der Raum ist leer. → Eine Vermutung aufgrund eines Hinweises.\nDie Aufgabe ist scheinbar leicht – tatsächlich ist sie anspruchsvoll. → Der Eindruck täuscht.\n\nWelche Nuance passt? „Er ist nur ___ ruhig; innerlich ist er nervös.“ Begründe deine Wahl.\n\n🌐 https://klarweg.in\n#DeutschC2 #Wortschatz #DeutschLernen #Klarweg",
+      "threads_text": "Anscheinend: vermutlich, dem äußeren Eindruck nach.\nScheinbar: nur dem Anschein nach, nicht wirklich.\n\n„Die Aufgabe ist scheinbar leicht – tatsächlich ist sie anspruchsvoll.“\n\nDeine Wahl: Er ist nur ___ ruhig; innerlich ist er nervös.\n🌐 https://klarweg.in\n#DeutschC2 #Klarweg",
+      "instagram_caption": "Ein kleines Wort, eine andere Aussage: anscheinend oder scheinbar?\n\nSwipe durch Vermutung, täuschenden Eindruck und zwei Übungssätze. Achte beim letzten Beispiel auf die Nuance und begründe deine Wahl.\n\nSpeichere den Beitrag für präziseren Ausdruck.\n\n🌐 https://klarweg.in\n#DeutschC2 #Wortschatz #DeutschLernen #Klarweg"
+    }
+  ]
+}
