@@ -1,0 +1,171 @@
+{
+  "timezone": "Asia/Kolkata",
+  "state": "assets_hosted_not_scheduled",
+  "public_hosting": "github_public_assets_repository",
+  "first_publication_verification_required": true,
+  "instagram_mode": "manual_music_and_publish",
+  "posts": [
+    {
+      "level": "A1",
+      "topic": "Your age in German",
+      "daily_slot_ist": "00:00",
+      "facebook_caption": "German mein age ke liye sein use karo: Ich bin 20 Jahre alt. Wie alt bist du? Apna jawab German mein likho!\n\n🌐 https://klarweg.in\n#LearnGerman #DeutschLernen #GermanA1 #Klarweg",
+      "threads_text": "German mein age ke liye sein use karo: Ich bin 20 Jahre alt. Wie alt bist du? Apna jawab German mein likho!\n\n🌐 https://klarweg.in",
+      "instagram_caption": "German mein age ke liye sein use karo: Ich bin 20 Jahre alt. Wie alt bist du? Apna jawab German mein likho!\n\n🌐 https://klarweg.in\n\nSwipe, practise and save this lesson.\n#LearnGerman #DeutschLernen #GermanA1 #Klarweg",
+      "slides": [
+        {
+          "path": "A1/01.png",
+          "sha256": "a2f8daf71093cc57d38f4f533ca4e05eb02331481e3c6288307c95e9c1b14b85"
+        },
+        {
+          "path": "A1/02.png",
+          "sha256": "0b69d27bda5ac946a6a74ccf1da19af495f1b61093acd4cfeda0acba2db4b248"
+        },
+        {
+          "path": "A1/03.png",
+          "sha256": "b78f7374cdaf03a162d32f1fd9aa91584ac60eec9ac5b9d3e98175b6567f10cd"
+        },
+        {
+          "path": "A1/04.png",
+          "sha256": "cd1e261ec3186c7c2c59c1acd3a9fb1be2105c78f1f26321eddebc3983314acf"
+        }
+      ],
+      "facebook_threads_image": "A1/01.png"
+    },
+    {
+      "level": "A2",
+      "topic": "Perfekt: haben oder sein?",
+      "daily_slot_ist": "04:00",
+      "facebook_caption": "Ich habe Deutsch gelernt. Ich bin nach Berlin gefahren. Perfekt mein sahi helper choose karo! Quiz: Ich ___ gelernt. Wir ___ gefahren. Sie (= she) ___ geblieben.\n\n🌐 https://klarweg.in\n#LearnGerman #DeutschLernen #GermanA2 #Klarweg",
+      "threads_text": "Ich habe Deutsch gelernt. Ich bin nach Berlin gefahren. Perfekt mein sahi helper choose karo! Quiz: Ich ___ gelernt. Wir ___ gefahren. Sie (= she) ___ geblieben.\n\n🌐 https://klarweg.in",
+      "instagram_caption": "Ich habe Deutsch gelernt. Ich bin nach Berlin gefahren. Perfekt mein sahi helper choose karo! Quiz: Ich ___ gelernt. Wir ___ gefahren. Sie (= she) ___ geblieben.\n\n🌐 https://klarweg.in\n\nSwipe, practise and save this lesson.\n#LearnGerman #DeutschLernen #GermanA2 #Klarweg",
+      "slides": [
+        {
+          "path": "A2/01.png",
+          "sha256": "62afabf8c56d8b962e1a042c0ba9f41840f29c9d2c6a04662ecc1819ed3a2d57"
+        },
+        {
+          "path": "A2/02.png",
+          "sha256": "cd6a6852539c479599b77b7827f46151ae840821f31ebff08b4bfaaa984bb203"
+        },
+        {
+          "path": "A2/03.png",
+          "sha256": "33328e73dab30488fdc25a0a49cc4a6b789af012bb889da38fa2518b6b81f894"
+        },
+        {
+          "path": "A2/04.png",
+          "sha256": "833dda2e1dda17a6b1e745dafbff183a34a91489b6ffb6fbc8f598d644f7754c"
+        }
+      ],
+      "facebook_threads_image": "A2/01.png"
+    },
+    {
+      "level": "B1",
+      "topic": "Obwohl and verb position",
+      "daily_slot_ist": "08:00",
+      "facebook_caption": "Obwohl ich müde bin, lerne ich weiter. Obwohl ke baad conjugated verb clause ke end mein aata hai. Join karo: Es regnet. Ich gehe spazieren.\n\n🌐 https://klarweg.in\n#LearnGerman #DeutschLernen #GermanB1 #Klarweg",
+      "threads_text": "Obwohl ich müde bin, lerne ich weiter. Obwohl ke baad conjugated verb clause ke end mein aata hai. Join karo: Es regnet. Ich gehe spazieren.\n\n🌐 https://klarweg.in",
+      "instagram_caption": "Obwohl ich müde bin, lerne ich weiter. Obwohl ke baad conjugated verb clause ke end mein aata hai. Join karo: Es regnet. Ich gehe spazieren.\n\n🌐 https://klarweg.in\n\nSwipe, practise and save this lesson.\n#LearnGerman #DeutschLernen #GermanB1 #Klarweg",
+      "slides": [
+        {
+          "path": "B1/01.png",
+          "sha256": "3a4cb093039d7a1f430d219e5e2ad6f92de7538d0bdb9f350079832e5d2596c5"
+        },
+        {
+          "path": "B1/02.png",
+          "sha256": "14aa70f3d20ffacea780083f383d148d70956da53204dad8e52a0bda3ecdd279"
+        },
+        {
+          "path": "B1/03.png",
+          "sha256": "c2f4a1cd5fe143e217c322f9825451c46bd5ed931ad29c7cef7acc2d24e1e490"
+        },
+        {
+          "path": "B1/04.png",
+          "sha256": "547c11f569443af42477201853b16cb17e9ad0b1e6448e3604269cce1803c879"
+        }
+      ],
+      "facebook_threads_image": "B1/01.png"
+    },
+    {
+      "level": "B2",
+      "topic": "Vorgangspassiv vs Zustandspassiv",
+      "daily_slot_ist": "12:00",
+      "facebook_caption": "Die Tür wird geöffnet: Vorgang. Die Tür ist geöffnet: Zustand. Jetzt du: Das Fenster wird geschlossen. / Das Fenster ist geschlossen. Was ist der Unterschied?\n\n🌐 https://klarweg.in\n#LearnGerman #DeutschLernen #GermanB2 #Klarweg",
+      "threads_text": "Die Tür wird geöffnet: Vorgang. Die Tür ist geöffnet: Zustand. Jetzt du: Das Fenster wird geschlossen. / Das Fenster ist geschlossen. Was ist der Unterschied?\n\n🌐 https://klarweg.in",
+      "instagram_caption": "Die Tür wird geöffnet: Vorgang. Die Tür ist geöffnet: Zustand. Jetzt du: Das Fenster wird geschlossen. / Das Fenster ist geschlossen. Was ist der Unterschied?\n\n🌐 https://klarweg.in\n\nSwipe, practise and save this lesson.\n#LearnGerman #DeutschLernen #GermanB2 #Klarweg",
+      "slides": [
+        {
+          "path": "B2/01.png",
+          "sha256": "5dee0a36864bbb4718540a11833dfae3bcf246bc1890736f780e533ace1a6921"
+        },
+        {
+          "path": "B2/02.png",
+          "sha256": "1feb3148f5bfd9e34c904953c471f8e56b6cd40d39bdab773bb0c4c0fbe04571"
+        },
+        {
+          "path": "B2/03.png",
+          "sha256": "5f338530193ab400eea7e694ead5da5eb1ea17c8fd320fc6a26bea44ceaa80e4"
+        },
+        {
+          "path": "B2/04.png",
+          "sha256": "bf88a9ad14c7c6014e7415d6f3386a21442634650e043a78193e51680e1d5105"
+        }
+      ],
+      "facebook_threads_image": "B2/01.png"
+    },
+    {
+      "level": "C1",
+      "topic": "Nominalstil",
+      "daily_slot_ist": "16:00",
+      "facebook_caption": "Obwohl die Kosten steigen → trotz steigender Kosten. Formuliere um: Obwohl die Nachfrage sinkt, bleibt der Preis stabil. Beginne mit Trotz.\n\n🌐 https://klarweg.in\n#LearnGerman #DeutschLernen #GermanC1 #Klarweg",
+      "threads_text": "Obwohl die Kosten steigen → trotz steigender Kosten. Formuliere um: Obwohl die Nachfrage sinkt, bleibt der Preis stabil. Beginne mit Trotz.\n\n🌐 https://klarweg.in",
+      "instagram_caption": "Obwohl die Kosten steigen → trotz steigender Kosten. Formuliere um: Obwohl die Nachfrage sinkt, bleibt der Preis stabil. Beginne mit Trotz.\n\n🌐 https://klarweg.in\n\nSwipe, practise and save this lesson.\n#LearnGerman #DeutschLernen #GermanC1 #Klarweg",
+      "slides": [
+        {
+          "path": "C1/01.png",
+          "sha256": "c1ed729916044217d3641f7c0f75ced1f788b6b9a95c4de59beb45612d247659"
+        },
+        {
+          "path": "C1/02.png",
+          "sha256": "38809bc688769ca97cb281afbf0d8dd9d1b021012837256e85d7159024b3c6b7"
+        },
+        {
+          "path": "C1/03.png",
+          "sha256": "67d8afe8a90e5ce5a58a704fb66f15f6c78cdc738a82c797b4f9b18c23225f00"
+        },
+        {
+          "path": "C1/04.png",
+          "sha256": "a9c1c0a17490265c35a1ff555864c8c4895c17d275cab144340a2a736157bcc5"
+        }
+      ],
+      "facebook_threads_image": "C1/01.png"
+    },
+    {
+      "level": "C2",
+      "topic": "Differenziert argumentieren",
+      "daily_slot_ist": "20:00",
+      "facebook_caption": "Digitales Lernen eröffnet neue Möglichkeiten. Daraus folgt jedoch nicht zwangsläufig, dass Präsenzunterricht entbehrlich wäre. Gestehe einen Vorteil ein und schränke die Schlussfolgerung ein.\n\n🌐 https://klarweg.in\n#LearnGerman #DeutschLernen #GermanC2 #Klarweg",
+      "threads_text": "Digitales Lernen eröffnet neue Möglichkeiten. Daraus folgt jedoch nicht zwangsläufig, dass Präsenzunterricht entbehrlich wäre. Gestehe einen Vorteil ein und schränke die Schlussfolgerung ein.\n\n🌐 https://klarweg.in",
+      "instagram_caption": "Digitales Lernen eröffnet neue Möglichkeiten. Daraus folgt jedoch nicht zwangsläufig, dass Präsenzunterricht entbehrlich wäre. Gestehe einen Vorteil ein und schränke die Schlussfolgerung ein.\n\n🌐 https://klarweg.in\n\nSwipe, practise and save this lesson.\n#LearnGerman #DeutschLernen #GermanC2 #Klarweg",
+      "slides": [
+        {
+          "path": "C2/01.png",
+          "sha256": "98293def5fda17741eb10d74d172e29e67ec8371fa0bdf931866fab041d9467b"
+        },
+        {
+          "path": "C2/02.png",
+          "sha256": "917021046fbe1287e46ebe22cff310f0391a20253eb591d138edde36db36e2bb"
+        },
+        {
+          "path": "C2/03.png",
+          "sha256": "8cb5c2aed19b3ccd27fe31bc1e914e991c7b0bef39b1779e281854d98d7c4f96"
+        },
+        {
+          "path": "C2/04.png",
+          "sha256": "ef2b3ac04b8eeecb12a90a8a8e18413ae5a98a3e124fe91618241dda6ff2127e"
+        }
+      ],
+      "facebook_threads_image": "C2/01.png"
+    }
+  ]
+}
