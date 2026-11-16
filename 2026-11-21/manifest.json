@@ -1,0 +1,259 @@
+{
+  "batch": "2026-11-21",
+  "timezone": "Asia/Kolkata",
+  "state": "ready_for_review_not_scheduled",
+  "posts": [
+    {
+      "id": "levels-20261121-a1",
+      "level": "A1",
+      "daily_slot_ist": "00:00",
+      "intended_at": "2026-11-21T00:00:00+05:30",
+      "topic": "können: ability",
+      "facebook_image": "A1/01.jpg",
+      "threads_image": "A1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A1/01.jpg",
+          "png_path": "A1/01.png",
+          "sha256": "cd44841f5e1b981cb17f307c61299dbb61d13d12bbb862bc2138122049a67696",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/02.jpg",
+          "png_path": "A1/02.png",
+          "sha256": "409148bdff691a12d573ce9feff5627b172b26abae552a7d3c5ef538fe5c3053",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/03.jpg",
+          "png_path": "A1/03.png",
+          "sha256": "00c5a181fe99c9e88c81fa09b862fbe256f9d266f22570698fd0b17a9a8d40f2",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/04.jpg",
+          "png_path": "A1/04.png",
+          "sha256": "8eb68443326e3ab3dd3e2bb94426bb80163d2627fa32655908a4ca286c5d5859",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 können: ability\n\nIch kann Deutsch sprechen.\nI can speak German.\nkann + infinitive at the end\n\nPractice:\n1. Ich ___ gut schwimmen.\n2. Du ___ Deutsch sprechen.\nUse the correct form of können.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🏊 Ich kann gut schwimmen.\nDu kannst Deutsch sprechen.\n\nkönnen = can / be able to.\nConjugated modal verb + infinitive at the end.\nQuiz: Ich ___ gut schwimmen. Du ___ Deutsch sprechen.\n\n🌐 https://klarweg.in\n#GermanA1 #Klarweg",
+      "instagram_caption": "🇩🇪 können: ability\n\nIch kann Deutsch sprechen.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261121-a2",
+      "level": "A2",
+      "daily_slot_ist": "04:00",
+      "intended_at": "2026-11-21T04:00:00+05:30",
+      "topic": "mit + Dativ",
+      "facebook_image": "A2/01.jpg",
+      "threads_image": "A2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A2/01.jpg",
+          "png_path": "A2/01.png",
+          "sha256": "122e8446a74aae89ac6cc7398a4dab31a1fd1b1e2c52cdbb03101a47b3d135c8",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/02.jpg",
+          "png_path": "A2/02.png",
+          "sha256": "364be3f0164f0870edee8fb1d25da478ea23c2a65034e9efb1526059d36e46db",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/03.jpg",
+          "png_path": "A2/03.png",
+          "sha256": "80b669a1559b4ed203b69d85409d5664ef1007b74561efbf2359d5fdd85a7518",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/04.jpg",
+          "png_path": "A2/04.png",
+          "sha256": "7c6fd5a8576ff3d832cc81dfe8b82364e726fff10f094ee59403a5448588d8bb",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 mit + Dativ\n\nIch fahre mit dem Bus.\nmit always takes the dative.\nder Bus → dem Bus\n\nPractice:\n1. Ich fahre mit ___ Bus.\n2. Sie fährt mit ___ Bahn.\nChoose dem or der.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🚌 mit + Dativ:\nmit dem Bus • mit der Bahn • mit dem Auto\n\nIch fahre mit dem Bus.\nQuiz: Ich fahre mit ___ Bus. Sie fährt mit ___ Bahn.\nChoose dem or der.\n\n🌐 https://klarweg.in\n#GermanA2 #Klarweg",
+      "instagram_caption": "🇩🇪 mit + Dativ\n\nIch fahre mit dem Bus.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261121-b1",
+      "level": "B1",
+      "daily_slot_ist": "08:00",
+      "intended_at": "2026-11-21T08:00:00+05:30",
+      "topic": "als oder wenn? Past events",
+      "facebook_image": "B1/01.jpg",
+      "threads_image": "B1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B1/01.jpg",
+          "png_path": "B1/01.png",
+          "sha256": "23427e2dbab1cead68fe564e5ef72a9bcaeefc076eb7ca5fe112c326503e11fd",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/02.jpg",
+          "png_path": "B1/02.png",
+          "sha256": "7fdb1b13013e6fc48df94f041b0e95a5e0be5690ef0b7dc3c58951468d97b922",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/03.jpg",
+          "png_path": "B1/03.png",
+          "sha256": "808897dcedd9cd059eb71857ce27e6759dabc6efbec3d99c824cf73043132f9b",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/04.jpg",
+          "png_path": "B1/04.png",
+          "sha256": "993659d6757c6c4beb57c9e10c588dce04e5961d9dfee82d1a204975b9b7706e",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 als oder wenn? Past events\n\nAls ich klein war, wohnte ich in Bonn.\nImmer wenn ich Ferien hatte, besuchte ich Oma.\nHere: one past period vs repeated past occasions\n\nPractice:\n1. ___ ich gestern ankam, war es spät.\n2. Immer ___ ich Ferien hatte, besuchte ich Oma.\nChoose als or wenn.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🕰️ Als ich klein war, wohnte ich in Bonn.\nImmer wenn ich Ferien hatte, besuchte ich Oma.\n\nHere: als = one past situation/period; immer wenn = repeated occasions.\nQuiz: ___ ich gestern ankam, war es spät.\n\n🌐 https://klarweg.in\n#GermanB1 #Klarweg",
+      "instagram_caption": "🇩🇪 als oder wenn? Past events\n\nAls ich klein war, wohnte ich in Bonn.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261121-b2",
+      "level": "B2",
+      "daily_slot_ist": "12:00",
+      "intended_at": "2026-11-21T12:00:00+05:30",
+      "topic": "einerseits … andererseits",
+      "facebook_image": "B2/01.jpg",
+      "threads_image": "B2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B2/01.jpg",
+          "png_path": "B2/01.png",
+          "sha256": "9221ddb7f7a2c1154841a65cb2a82df7fc7a02c04690abbfb2d26f781a9db6d8",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/02.jpg",
+          "png_path": "B2/02.png",
+          "sha256": "f45bcd4b955f63c0ea699d8c5ab91f046b6b6fca257ba81fd137e2909d916288",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/03.jpg",
+          "png_path": "B2/03.png",
+          "sha256": "acdb2601e968d420c4f82c89b11940ca75bba4e63f0eef51c2351b0181dd4734",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/04.jpg",
+          "png_path": "B2/04.png",
+          "sha256": "8035fb46cc6ee1f91f305e3b7f873e87152d9b04cfd04fee714fa7d3fa4b2f38",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 einerseits … andererseits\n\nEinerseits ist der Kurs intensiv.\nAndererseits lerne ich sehr viel.\nTwo sides of the same situation\n\nPractice:\nPut the second sentence in order:\nEinerseits ist die Wohnung teuer.\nandererseits / sie / liegt / sehr zentral\nWrite the complete second sentence.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "⚖️ Einerseits ist die Wohnung teuer.\nAndererseits liegt sie sehr zentral.\n\nTwo perspectives. Start with either adverb, then verb + subject.\nYour turn: andererseits / sie / liegt / sehr zentral\n\n🌐 https://klarweg.in\n#GermanB2 #Klarweg",
+      "instagram_caption": "🇩🇪 einerseits … andererseits\n\nEinerseits ist der Kurs intensiv.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261121-c1",
+      "level": "C1",
+      "daily_slot_ist": "16:00",
+      "intended_at": "2026-11-21T16:00:00+05:30",
+      "topic": "zumal: einen weiteren Grund nennen",
+      "facebook_image": "C1/01.jpg",
+      "threads_image": "C1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C1/01.jpg",
+          "png_path": "C1/01.png",
+          "sha256": "2e682a7015cce65ee605006c4b283eada319861025a28ede386c4c6b365e45bf",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/02.jpg",
+          "png_path": "C1/02.png",
+          "sha256": "ffdbe2c3a03e5e6da0d316ef92aef1a6cd6e1489902e97576d8aa38a966b8c9b",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/03.jpg",
+          "png_path": "C1/03.png",
+          "sha256": "6dbe5cd7f89e126a60e9eec24f976f9643adb575fcda3e1e3a125909999b6c3f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/04.jpg",
+          "png_path": "C1/04.png",
+          "sha256": "c4653f9e19d79fd31d89915e4591404a1d7ed8849582b629445dd84285ed03ad",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 zumal: einen weiteren Grund nennen\n\nWir bleiben zu Hause, zumal es stark regnet.\nzumal = besonders weil\nHier kommt ein zusätzlicher Grund hinzu.\n\nPractice:\nOrdne den Nebensatz:\nDer Kurs lohnt sich, zumal …\ndie Gruppen / sind / klein\nSchreibe den vollständigen Satz.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🌧️ Wir bleiben zu Hause, zumal es stark regnet.\nzumal = besonders weil.\n\nYahan ek additional reason add hota hai. Finite verb clause ke end par.\nOrder it: Der Kurs lohnt sich, zumal die Gruppen / sind / klein.\n\n🌐 https://klarweg.in\n#GermanC1 #Klarweg",
+      "instagram_caption": "🇩🇪 zumal: einen weiteren Grund nennen\n\nWir bleiben zu Hause, zumal es stark regnet.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261121-c2",
+      "level": "C2",
+      "daily_slot_ist": "20:00",
+      "intended_at": "2026-11-21T20:00:00+05:30",
+      "topic": "mitnichten: eine deutliche Verneinung",
+      "facebook_image": "C2/01.jpg",
+      "threads_image": "C2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C2/01.jpg",
+          "png_path": "C2/01.png",
+          "sha256": "c295ca11d0cba25b0e22c5dd814a8672e542df073be18343ee976674c0aeacf5",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/02.jpg",
+          "png_path": "C2/02.png",
+          "sha256": "4b0eaa25bb307b9ced7c31ebdd8c6ea2e1021eb5fef2ec38068593c7e787cbc3",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/03.jpg",
+          "png_path": "C2/03.png",
+          "sha256": "baf0d4201fbfc62e319b0d4ed24d9d40c1187ce5e662cecc7f78bd858e9acdeb",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/04.jpg",
+          "png_path": "C2/04.png",
+          "sha256": "fb38016e949698814366795e30d5cff2e9ee3fa6c2765718f72985daeae40c54",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 mitnichten: eine deutliche Verneinung\n\nDas ist mitnichten selbstverständlich.\n= Das ist keineswegs selbstverständlich.\nmitnichten: gehoben, nachdrücklich\n\nPractice:\nDas ist mitnichten sicher.\nA: Das ist keineswegs sicher.\nB: Das ist wahrscheinlich sicher.\nWähle A oder B.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🔎 Das ist mitnichten sicher.\n= Das ist keineswegs sicher.\n\nmitnichten rejects an assumption emphatically. Register: formal/elevated, sometimes pointed.\nIt does not mean vielleicht nicht.\n\nTry using it in a sentence.\n\n🌐 https://klarweg.in\n#GermanC2 #Klarweg",
+      "instagram_caption": "🇩🇪 mitnichten: eine deutliche Verneinung\n\nDas ist mitnichten selbstverständlich.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg"
+    }
+  ]
+}
