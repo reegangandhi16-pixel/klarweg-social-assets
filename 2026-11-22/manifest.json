@@ -1,0 +1,259 @@
+{
+  "batch": "2026-11-22",
+  "timezone": "Asia/Kolkata",
+  "state": "ready_for_review_not_scheduled",
+  "posts": [
+    {
+      "id": "levels-20261122-a1",
+      "level": "A1",
+      "daily_slot_ist": "00:00",
+      "intended_at": "2026-11-22T00:00:00+05:30",
+      "topic": "gern: what you enjoy doing",
+      "facebook_image": "A1/01.jpg",
+      "threads_image": "A1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A1/01.jpg",
+          "png_path": "A1/01.png",
+          "sha256": "d6f23bac54c67f89c457912a425f241da265144efd9d0f1e66b54b8efd189446",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/02.jpg",
+          "png_path": "A1/02.png",
+          "sha256": "ef24bb814bc0f0a3edbe494a0c545e739bb2d9814d76d14aca1fd22bf17d9850",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/03.jpg",
+          "png_path": "A1/03.png",
+          "sha256": "b4449b5f70bfe7047c6719fb4d8889497fa9715710602895150fbea0debb950f",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A1/04.jpg",
+          "png_path": "A1/04.png",
+          "sha256": "fcedc952a637795cd0d2567f79219b14c7df9922dc2f03c0a430d990a315a496",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 gern: what you enjoy doing\n\nIch lese gern.\nI like reading.\nVerb + gern = enjoy doing something\n\nPractice:\n1. I like reading: Ich lese ___.\n2. Put in order: gern / ich / koche\nWrite both answers in the comments.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "📚 Ich lese gern. = I like reading.\nIch koche gern. = I enjoy cooking.\n\nVerb + gern shows what you like doing.\nWas machst du gern?\nQuiz: gern / ich / koche → ?\n\n🌐 https://klarweg.in\n#GermanA1 #Klarweg",
+      "instagram_caption": "🇩🇪 gern: what you enjoy doing\n\nIch lese gern.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261122-a2",
+      "level": "A2",
+      "daily_slot_ist": "04:00",
+      "intended_at": "2026-11-22T04:00:00+05:30",
+      "topic": "Reflexive verbs: sich waschen",
+      "facebook_image": "A2/01.jpg",
+      "threads_image": "A2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "A2/01.jpg",
+          "png_path": "A2/01.png",
+          "sha256": "99c50dc58a1bd19b821962d6e1280dd9cb6dc463620c609b706b1342a359ca78",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/02.jpg",
+          "png_path": "A2/02.png",
+          "sha256": "5515f6cb65dca299fb9e898813c58ce5669942e604aef7acba7305bb314cd69d",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/03.jpg",
+          "png_path": "A2/03.png",
+          "sha256": "4f6b5b5ac67bad4448d99acd9a5821e4ca1c8fe1304e2234a29793de74a441c6",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "A2/04.jpg",
+          "png_path": "A2/04.png",
+          "sha256": "fb0848f8b9bc929049cd3af7fa5adb18093a461b2bbf6002da01fd0a21793a53",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 Reflexive verbs: sich waschen\n\nIch wasche mich.\nDu wäschst dich.\nHere: the action refers back to the subject.\n\nPractice:\n1. Ich wasche ___.\n2. Du wäschst ___.\n3. Sie wäscht ___.\nUse mich, dich or sich.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🧼 Ich wasche mich.\nDu wäschst dich.\nSie wäscht sich.\n\nHere, the action refers back to the subject. Notice wäschst/wäscht!\nQuiz: Ich wasche ___. Du wäschst ___. Sie wäscht ___.\n\n🌐 https://klarweg.in\n#GermanA2 #Klarweg",
+      "instagram_caption": "🇩🇪 Reflexive verbs: sich waschen\n\nIch wasche mich.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanA2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261122-b1",
+      "level": "B1",
+      "daily_slot_ist": "08:00",
+      "intended_at": "2026-11-22T08:00:00+05:30",
+      "topic": "bevor oder nachdem?",
+      "facebook_image": "B1/01.jpg",
+      "threads_image": "B1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B1/01.jpg",
+          "png_path": "B1/01.png",
+          "sha256": "cb6e69f2e3cfb1bd2ea4341af7e6e79825e25563bfd1d2c89fdfc6576afbbc5a",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/02.jpg",
+          "png_path": "B1/02.png",
+          "sha256": "8fb87826f15f1c8f40ee667c5b7024c9299e48a2602599596d5cab0e931e2450",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/03.jpg",
+          "png_path": "B1/03.png",
+          "sha256": "795c1435040439440fc615631689f5c7b3f0f7f1494c1890ad6088ea90ca8c42",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B1/04.jpg",
+          "png_path": "B1/04.png",
+          "sha256": "a345292a612b656094a312a54f975af4ce4c4969e8cc2bc9fb0dcb3e8d73c587",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 bevor oder nachdem?\n\nBevor ich gehe, trinke ich einen Kaffee.\nNachdem ich gegessen habe, gehe ich spazieren.\nbevor = before • nachdem = after\n\nPractice:\n1. ___ ich gehe, trinke ich einen Kaffee. (before)\n2. ___ ich gegessen habe, gehe ich spazieren. (after)\nChoose bevor or nachdem.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "☕ Bevor ich gehe, trinke ich einen Kaffee.\nFirst coffee, then leaving.\n\n🍽️ Nachdem ich gegessen habe, gehe ich spazieren.\nFirst eating, then walking.\n\nbevor = before • nachdem = after\nBoth clauses put the finite verb last.\n\n🌐 https://klarweg.in\n#GermanB1 #Klarweg",
+      "instagram_caption": "🇩🇪 bevor oder nachdem?\n\nBevor ich gehe, trinke ich einen Kaffee.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261122-b2",
+      "level": "B2",
+      "daily_slot_ist": "12:00",
+      "intended_at": "2026-11-22T12:00:00+05:30",
+      "topic": "nicht nur … sondern auch",
+      "facebook_image": "B2/01.jpg",
+      "threads_image": "B2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "B2/01.jpg",
+          "png_path": "B2/01.png",
+          "sha256": "ce48976b2b49a5a22c6e91d3a3499c09aca8355abff857b6ffbf6832b0b2ccbb",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/02.jpg",
+          "png_path": "B2/02.png",
+          "sha256": "06b0a4a8a38527a57f5c2e83452ad3525784ec0114017107654af002c266f553",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/03.jpg",
+          "png_path": "B2/03.png",
+          "sha256": "a42d890de64ad9bf17d5ff98ef1595edb6ca7a297d5f40e6080e5daf76b09658",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "B2/04.jpg",
+          "png_path": "B2/04.png",
+          "sha256": "8595e3b57b7e596f7a85dfcad4ffa8a92b38792d93687aec900443bb70b55a72",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 nicht nur … sondern auch\n\nSie spricht nicht nur Deutsch, sondern auch Englisch.\nShe speaks not only German, but also English.\nHere: two language nouns in parallel\n\nPractice:\nComplete the pair:\nDer Kurs ist nicht nur praktisch, ___ ___ interessant.\nWrite the two missing words.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🗣️ Sie spricht nicht nur Deutsch, sondern auch Englisch.\nNot only German, but also English.\n\nKeep the two parts parallel. Comma before sondern.\nQuiz: Der Kurs ist nicht nur praktisch, ___ ___ interessant.\n\n🌐 https://klarweg.in\n#GermanB2 #Klarweg",
+      "instagram_caption": "🇩🇪 nicht nur … sondern auch\n\nSie spricht nicht nur Deutsch, sondern auch Englisch.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanB2 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261122-c1",
+      "level": "C1",
+      "daily_slot_ist": "16:00",
+      "intended_at": "2026-11-22T16:00:00+05:30",
+      "topic": "ungeachtet + Genitiv",
+      "facebook_image": "C1/01.jpg",
+      "threads_image": "C1/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C1/01.jpg",
+          "png_path": "C1/01.png",
+          "sha256": "57072eec23ed3dc4c8659650461e208977f801e55ba2a553b70773f7ee44d96d",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/02.jpg",
+          "png_path": "C1/02.png",
+          "sha256": "f68c82421d93dc5b583b13974f5dc464207eeeec82c64246bc81db4c8a480853",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/03.jpg",
+          "png_path": "C1/03.png",
+          "sha256": "9789ea403ab9b3ec05e7b7d5ad42154e2b545487121b8186a2548f739e0ae874",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C1/04.jpg",
+          "png_path": "C1/04.png",
+          "sha256": "7c6feb08ed8919e8d4a18643b25bf03fa7ac51c0164a1d5b25d28d7789e81f8c",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 ungeachtet + Genitiv\n\nUngeachtet der Kritik hält sie an ihrem Plan fest.\n= Trotz der Kritik hält sie an ihrem Plan fest.\nungeachtet: formell, hier mit Genitiv\n\nPractice:\nErgänze im Genitiv:\nUngeachtet ______ findet das Konzert statt.\nVerwende: das schlechte Wetter\nSchreibe die vollständige Nominalgruppe.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "📝 Ungeachtet der Kritik hält sie an ihrem Plan fest.\n= Trotz der Kritik …\n\nFormal German: ungeachtet + Genitiv.\nder Einwand → ungeachtet des Einwands\nTry: Ungeachtet ______ … (das schlechte Wetter)\n\n🌐 https://klarweg.in\n#GermanC1 #Klarweg",
+      "instagram_caption": "🇩🇪 ungeachtet + Genitiv\n\nUngeachtet der Kritik hält sie an ihrem Plan fest.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC1 #LearnGerman #DeutschLernen #Klarweg"
+    },
+    {
+      "id": "levels-20261122-c2",
+      "level": "C2",
+      "daily_slot_ist": "20:00",
+      "intended_at": "2026-11-22T20:00:00+05:30",
+      "topic": "allenfalls oder jedenfalls?",
+      "facebook_image": "C2/01.jpg",
+      "threads_image": "C2/01.jpg",
+      "instagram_slides": [
+        {
+          "path": "C2/01.jpg",
+          "png_path": "C2/01.png",
+          "sha256": "be02aeb5210f1c0337b1596fdb694945ecc23f0ebe2364818eb03527300ef6c8",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/02.jpg",
+          "png_path": "C2/02.png",
+          "sha256": "7b35c9fa721eefa89ab939e5cbd55e2f1db79e9f9c313471c033908682261295",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/03.jpg",
+          "png_path": "C2/03.png",
+          "sha256": "dc4e16690c023677a724702a46ff7539ee1679d169bb6b5b319995bdf4579960",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "path": "C2/04.jpg",
+          "png_path": "C2/04.png",
+          "sha256": "842c72561e83c42e102db923e0d52904848b234089289fd3058232bbd7e12baf",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "facebook_caption": "🇩🇪 allenfalls oder jedenfalls?\n\nDas dauert allenfalls zehn Minuten.\nHier: höchstens zehn Minuten.\nIch komme jedenfalls morgen.\n\nPractice:\n1. Das dauert ___ zehn Minuten. (= höchstens)\n2. Ich komme ___ morgen. (= auf jeden Fall)\nWähle allenfalls oder jedenfalls.\nApne answers comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg",
+      "threads_text": "🔎 Das dauert allenfalls zehn Minuten.\nHere: at most ten minutes.\n\nIch komme jedenfalls morgen.\nHere: in any case / definitely tomorrow.\n\nContext matters: allenfalls can also mean possibly.\nQuiz: ___ = höchstens in the first example?\n\n🌐 https://klarweg.in\n#GermanC2 #Klarweg",
+      "instagram_caption": "🇩🇪 allenfalls oder jedenfalls?\n\nDas dauert allenfalls zehn Minuten.\n\nSwipe: lesson → rule → examples → practice.\nLast slide ka answer comments mein likho aur lesson save karo!\n\n🌐 https://klarweg.in\n#GermanC2 #LearnGerman #DeutschLernen #Klarweg"
+    }
+  ]
+}
