@@ -2,60 +2,64 @@
   "id": "gwr-auto-20261121-00",
   "status": "approved",
   "level": "A1",
-  "topic": "Zuhause",
+  "topic": "Küche",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T00:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0000/01.jpg",
-  "image_sha256": "c25949011d239b59899f44c029f3c7cb978a3364893d671ea87628360414dfd0",
+  "image_sha256": "7dcfa25fb018521113f702521dbfc7f3712b6aef356461c475880ada19378404",
   "words": [
     {
-      "article": "das",
-      "german": "Bett",
-      "english": "bed"
+      "article": "der",
+      "german": "Kühlschrank",
+      "english": "fridge"
     },
     {
       "article": "der",
-      "german": "Tisch",
-      "english": "table"
-    },
-    {
-      "article": "der",
-      "german": "Stuhl",
-      "english": "chair"
+      "german": "Teller",
+      "english": "plate"
     },
     {
       "article": "die",
-      "german": "Lampe",
-      "english": "lamp"
-    },
-    {
-      "article": "die",
-      "german": "Tür",
-      "english": "door"
+      "german": "Tasse",
+      "english": "cup"
     },
     {
       "article": "das",
-      "german": "Fenster",
-      "english": "window"
+      "german": "Messer",
+      "english": "knife"
+    },
+    {
+      "article": "die",
+      "german": "Pfanne",
+      "english": "pan"
+    },
+    {
+      "article": "der",
+      "german": "Löffel",
+      "english": "spoon"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-21T00:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0000/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Zuhause (At home)\n\ndas Bett = bed\nder Tisch = table\nder Stuhl = chair\ndie Lampe = lamp\ndie Tür = door\ndas Fenster = window\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Küche (Kitchen)\n\nder Kühlschrank = fridge\nder Teller = plate\ndie Tasse = cup\ndas Messer = knife\ndie Pfanne = pan\nder Löffel = spoon\n\n💡 Learn the article with each German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-21T00:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0000/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Zuhause (At home)\ndas Bett = bed\nder Tisch = table\nder Stuhl = chair\ndie Lampe = lamp\ndie Tür = door\ndas Fenster = window\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 German — Küche (Kitchen)\nder Kühlschrank = fridge\nder Teller = plate\ndie Tasse = cup\ndas Messer = knife\ndie Pfanne = pan\nder Löffel = spoon\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-21T00:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0000/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Zuhause (At home)\n\ndas Bett = bed\nder Tisch = table\nder Stuhl = chair\ndie Lampe = lamp\ndie Tür = door\ndas Fenster = window\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Küche (Kitchen)\n\nder Kühlschrank = fridge\nder Teller = plate\ndie Tasse = cup\ndas Messer = knife\ndie Pfanne = pan\nder Löffel = spoon\n\n💡 Learn the article with each German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "visual_source": "User-approved exact premium artwork (not procedural generator), resized to 1080x1350 JPG at quality 95",
+  "approved_editorial_original_filename": "learnwithreegan_kitchen_vocabulary_in_cologne.png",
+  "expected_bytes": 655232,
+  "asset_status": "awaiting_exact_jpeg_binary_upload"
 }
