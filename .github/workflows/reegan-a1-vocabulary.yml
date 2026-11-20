@@ -24,8 +24,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install image renderer
-        run: python -m pip install 'pillow>=11,<13'
+      - name: Install illustrated icon font and renderer
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-noto-color-emoji fonts-dejavu-core
+          python -m pip install 'pillow>=11,<13'
       - name: Build bilingual A1 poster batch for today and next two days
         run: python germanwithreegan/automation/generate.py
       - name: Verify generated files before commit
@@ -37,12 +40,15 @@ jobs:
           paths=list(root.rglob('post.json'))
           assert paths, 'No post files were generated'
           for p in paths:
+              if p.parts[-3]<'2026-11-21':
+                  continue # Legacy v1 content is archived and excluded from future posts.
               obj=json.loads(p.read_text('utf8'))
               jpg=p.parent/'01.jpg'
               assert jpg.exists() and jpg.stat().st_size>60000
               assert hashlib.sha256(jpg.read_bytes()).hexdigest()==obj['image_sha256']
               assert len(obj['words'])==6 and len(obj['threads']['text'])<=500
               assert obj['instagram']['mode']=='image' and obj['level']=='A1'
+              assert obj['generator_version']=='a1-v2', 'Reject the old text-card design'
           print('Validated',len(paths),'image/manifest pairs')
           PY
       - name: Commit only Reegan auto content

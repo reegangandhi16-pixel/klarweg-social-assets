@@ -10,6 +10,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from style_v2 import poster_v2
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "germanwithreegan" / "auto"
@@ -119,10 +120,12 @@ def build_one(day,slot):
     dest=path/"01.jpg"
     manifest=path/"post.json"
     if dest.exists() and manifest.exists():
-        print("EXISTS",day,slot)
-        return
+        previous=json.loads(manifest.read_text('utf8'))
+        if previous.get('generator_version')=='a1-v2':
+            print("V2 ALREADY APPROVED",day,slot)
+            return
     path.mkdir(parents=True,exist_ok=True)
-    image=poster(german,english,words,slot)
+    image=poster_v2(german,english,words,slot)
     image.save(dest,format="JPEG",quality=90,optimize=True,subsampling=0)
     img_hash=hashlib.sha256(dest.read_bytes()).hexdigest()
     identifier=f"gwr-auto-{day:%Y%m%d}-{slot:02d}"
@@ -134,7 +137,7 @@ def build_one(day,slot):
     assert len(common)<=2200 and len(threads)<=500,(len(common),len(threads))
     p={
         "id":identifier,"status":"approved","level":"A1",
-        "topic":german,"generator_version":"a1-v1","scheduled_at":scheduled,
+        "topic":german,"generator_version":"a1-v2","scheduled_at":scheduled,
         "image_url":media_url,"image_sha256":img_hash,
         "words":[{"article":a,"german":w,"english":e} for a,w,e in words],
         "facebook":{"approved":True,"scheduled_at":scheduled,"image_url":media_url,"caption":common},
@@ -148,7 +151,7 @@ def main():
     today=datetime.now(ZoneInfo("Asia/Kolkata")).date()
     # Publish is separately gated by date, media hash, account identity and ledger.
     # Build today + next two days; each dated file is immutable after creation.
-    for n in range(3):
+    for n in range(1,4):
         day=today+timedelta(days=n)
         for slot in SLOTS:
             build_one(day,slot)
