@@ -2,60 +2,64 @@
   "id": "gwr-auto-20261121-04",
   "status": "approved",
   "level": "A1",
-  "topic": "Küche",
+  "topic": "Essen",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T04:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0400/01.jpg",
-  "image_sha256": "961dd3a8ef83bb427f8d1e5cb12f0f17550015db5d770772a67ec6086e5be262",
+  "image_sha256": "db461868e02f86847aee3746b5c9172cf495ea0b0730ef78e3ab5ab71ed1e8b9",
   "words": [
     {
-      "article": "die",
-      "german": "Tasse",
-      "english": "cup"
-    },
-    {
-      "article": "das",
-      "german": "Glas",
-      "english": "glass"
-    },
-    {
       "article": "der",
-      "german": "Löffel",
-      "english": "spoon"
+      "german": "Apfel",
+      "english": "apple"
     },
     {
       "article": "die",
-      "german": "Gabel",
-      "english": "fork"
+      "german": "Banane",
+      "english": "banana"
     },
     {
-      "article": "das",
-      "german": "Messer",
-      "english": "knife"
+      "article": "die",
+      "german": "Orange",
+      "english": "orange"
+    },
+    {
+      "article": "die",
+      "german": "Kartoffel",
+      "english": "potato"
     },
     {
       "article": "der",
-      "german": "Topf",
-      "english": "pot"
+      "german": "Käse",
+      "english": "cheese"
+    },
+    {
+      "article": "das",
+      "german": "Ei",
+      "english": "egg"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-21T04:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0400/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Küche (In the kitchen)\n\ndie Tasse = cup\ndas Glas = glass\nder Löffel = spoon\ndie Gabel = fork\ndas Messer = knife\nder Topf = pot\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\nder Apfel = apple\ndie Banane = banana\ndie Orange = orange\ndie Kartoffel = potato\nder Käse = cheese\ndas Ei = egg\n\n💡 Learn the article with each German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-21T04:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0400/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Küche (In the kitchen)\ndie Tasse = cup\ndas Glas = glass\nder Löffel = spoon\ndie Gabel = fork\ndas Messer = knife\nder Topf = pot\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 German — Essen (Food)\nder Apfel = apple\ndie Banane = banana\ndie Orange = orange\ndie Kartoffel = potato\nder Käse = cheese\ndas Ei = egg\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-21T04:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0400/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Küche (In the kitchen)\n\ndie Tasse = cup\ndas Glas = glass\nder Löffel = spoon\ndie Gabel = fork\ndas Messer = knife\nder Topf = pot\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\nder Apfel = apple\ndie Banane = banana\ndie Orange = orange\ndie Kartoffel = potato\nder Käse = cheese\ndas Ei = egg\n\n💡 Learn the article with each German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "visual_source": "User-approved exact premium artwork (not procedural generator), resized to 1080x1350 JPG at quality 95",
+  "approved_editorial_original_filename": "german_food_vocabulary_infographic.png",
+  "expected_bytes": 687304,
+  "asset_status": "awaiting_exact_jpeg_binary_upload"
 }
