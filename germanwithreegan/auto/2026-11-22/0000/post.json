@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261122-00",
   "status": "approved",
   "level": "A1",
-  "topic": "Schule",
+  "topic": "Familie",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-22T00:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0000/01.jpg",
-  "image_sha256": "6437ae5e43a24f8df9e6243ffb2323cb0f3023d6d9106ea0781f20501c1f3319",
+  "image_sha256": "ee3c558c8c0b79f9c5ee8e6d25761ea9fade31cf3a49f41b79997c4e7809b021",
   "words": [
     {
-      "article": "der",
-      "german": "Stift",
-      "english": "pen"
+      "article": "die",
+      "german": "Mutter",
+      "english": "mother"
     },
     {
       "article": "der",
-      "german": "Bleistift",
-      "english": "pencil"
-    },
-    {
-      "article": "der",
-      "german": "Radiergummi",
-      "english": "eraser"
+      "german": "Vater",
+      "english": "father"
     },
     {
       "article": "die",
-      "german": "Tafel",
-      "english": "board"
+      "german": "Schwester",
+      "english": "sister"
     },
     {
       "article": "der",
-      "german": "Rucksack",
-      "english": "backpack"
+      "german": "Bruder",
+      "english": "brother"
     },
     {
       "article": "die",
-      "german": "Schule",
-      "english": "school"
+      "german": "Oma",
+      "english": "grandmother"
+    },
+    {
+      "article": "der",
+      "german": "Opa",
+      "english": "grandfather"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-22T00:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0000/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Schule (At school)\n\nder Stift = pen\nder Bleistift = pencil\nder Radiergummi = eraser\ndie Tafel = board\nder Rucksack = backpack\ndie Schule = school\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Familie (Family)\n\ndie Mutter = mother\nder Vater = father\ndie Schwester = sister\nder Bruder = brother\ndie Oma = grandmother\nder Opa = grandfather\n\n💡 Learn German nouns with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-22T00:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0000/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Schule (At school)\nder Stift = pen\nder Bleistift = pencil\nder Radiergummi = eraser\ndie Tafel = board\nder Rucksack = backpack\ndie Schule = school\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 German — Familie (Family)\ndie Mutter = mother\nder Vater = father\ndie Schwester = sister\nder Bruder = brother\ndie Oma = grandmother\nder Opa = grandfather\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-22T00:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0000/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Schule (At school)\n\nder Stift = pen\nder Bleistift = pencil\nder Radiergummi = eraser\ndie Tafel = board\nder Rucksack = backpack\ndie Schule = school\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Familie (Family)\n\ndie Mutter = mother\nder Vater = father\ndie Schwester = sister\nder Bruder = brother\ndie Oma = grandmother\nder Opa = grandfather\n\n💡 Learn German nouns with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "exact_premium_image_git_blob": "451d59b9128963462d7fd816f78dcde53418aece",
+  "expected_bytes": 716142,
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "approved_editorial_original_filename": "a_vibrant_high_contrast_educational_infographic_i.png",
+  "visual_source": "Individually generated and user-requested premium Familie poster, resized to 1080x1350 quality-95 JPEG; no instructor portrait"
 }
