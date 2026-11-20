@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261121-08",
   "status": "approved",
   "level": "A1",
-  "topic": "Essen",
+  "topic": "Getränke",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T08:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
-  "image_sha256": "f8ae333f85d83b07ee6dbed79dd63e3902b32ef4ee3eaa59bfc17c6c6a6e7ad0",
+  "image_sha256": "a1ea738542976d769a1eb6a6312c163a32784a037990bc5b12967954f900ff1b",
   "words": [
     {
-      "article": "der",
-      "german": "Käse",
-      "english": "cheese"
-    },
-    {
       "article": "das",
-      "german": "Ei",
-      "english": "egg"
+      "german": "Wasser",
+      "english": "water"
     },
     {
       "article": "der",
-      "german": "Reis",
-      "english": "rice"
+      "german": "Kaffee",
+      "english": "coffee"
+    },
+    {
+      "article": "der",
+      "german": "Tee",
+      "english": "tea"
     },
     {
       "article": "die",
-      "german": "Suppe",
-      "english": "soup"
-    },
-    {
-      "article": "das",
-      "german": "Fleisch",
-      "english": "meat"
+      "german": "Milch",
+      "english": "milk"
     },
     {
       "article": "der",
-      "german": "Fisch",
-      "english": "fish"
+      "german": "Saft",
+      "english": "juice"
+    },
+    {
+      "article": "die",
+      "german": "Flasche",
+      "english": "bottle"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-21T08:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\ndas Fleisch = meat\nder Fisch = fish\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Getränke (Drinks)\n\ndas Wasser = water\nder Kaffee = coffee\nder Tee = tea\ndie Milch = milk\nder Saft = juice\ndie Flasche = bottle\n\n💡 Learn the article with every German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-21T08:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Essen (Food)\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\ndas Fleisch = meat\nder Fisch = fish\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 German — Getränke (Drinks)\ndas Wasser = water\nder Kaffee = coffee\nder Tee = tea\ndie Milch = milk\nder Saft = juice\ndie Flasche = bottle\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-21T08:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\ndas Fleisch = meat\nder Fisch = fish\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Getränke (Drinks)\n\ndas Wasser = water\nder Kaffee = coffee\nder Tee = tea\ndie Milch = milk\nder Saft = juice\ndie Flasche = bottle\n\n💡 Learn the article with every German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "exact_premium_image_git_blob": "2c015a09844c11c2602616ac7000c8010cc4d894",
+  "expected_bytes": 696785,
+  "visual_source": "User-approved premium Getränke artwork, resized to 1080x1350 JPG quality 95 without redesign",
+  "approved_editorial_original_filename": "german_drinks_vocabulary_poster.png"
 }
