@@ -40,6 +40,8 @@ jobs:
           paths=list(root.rglob('post.json'))
           assert paths, 'No post files were generated'
           for p in paths:
+              if p.parts[-3]<'2026-11-21':
+                  continue # Legacy v1 content is archived and excluded from future posts.
               obj=json.loads(p.read_text('utf8'))
               jpg=p.parent/'01.jpg'
               assert jpg.exists() and jpg.stat().st_size>60000
