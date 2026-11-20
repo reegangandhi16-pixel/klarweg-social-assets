@@ -61,5 +61,7 @@
   "visual_source": "User-approved exact premium artwork (not procedural generator), resized to 1080x1350 JPG at quality 95",
   "approved_editorial_original_filename": "german_food_vocabulary_infographic.png",
   "expected_bytes": 687304,
-  "asset_status": "awaiting_exact_jpeg_binary_upload"
+  "asset_status": "uploaded_verified",
+  "exact_premium_image_git_blob": "4ae3bc9bc4033c6b551ebf53b2060522f96c8766",
+  "approved_artwork": true
 }
