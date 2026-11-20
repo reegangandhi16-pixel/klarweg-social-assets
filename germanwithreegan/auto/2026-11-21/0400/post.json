@@ -3,10 +3,10 @@
   "status": "approved",
   "level": "A1",
   "topic": "Küche",
-  "generator_version": "a1-v1",
+  "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T04:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0400/01.jpg",
-  "image_sha256": "712bdb68f56121305b5d2d10eafe1967855c68468bb79ccd65594e4fcbe2b20b",
+  "image_sha256": "961dd3a8ef83bb427f8d1e5cb12f0f17550015db5d770772a67ec6086e5be262",
   "words": [
     {
       "article": "die",

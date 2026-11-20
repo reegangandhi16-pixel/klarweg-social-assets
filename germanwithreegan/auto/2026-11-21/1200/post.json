@@ -3,10 +3,10 @@
   "status": "approved",
   "level": "A1",
   "topic": "Getränke",
-  "generator_version": "a1-v1",
+  "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T12:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1200/01.jpg",
-  "image_sha256": "f3dae4f62de929bc6a03c284cc99bb7005a3b4fef02628a2096f613780f6005e",
+  "image_sha256": "be0083a8dbfbda3975547ea3c8da3a9abdf19dc905603492d94092fa57297333",
   "words": [
     {
       "article": "das",

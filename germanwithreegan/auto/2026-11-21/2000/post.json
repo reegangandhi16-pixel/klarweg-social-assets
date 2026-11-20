@@ -3,10 +3,10 @@
   "status": "approved",
   "level": "A1",
   "topic": "Verkehr",
-  "generator_version": "a1-v1",
+  "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T20:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/2000/01.jpg",
-  "image_sha256": "99baf4b668d9669ce14e598041066bd4a92ba30b5a9eee78172b3bd44f7353a5",
+  "image_sha256": "e99ba56635ecb8734a3101232fd17a3c21b32ab10655e226256b71209dc79609",
   "words": [
     {
       "article": "das",
