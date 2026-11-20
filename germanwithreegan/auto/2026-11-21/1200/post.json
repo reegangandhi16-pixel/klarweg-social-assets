@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261121-12",
   "status": "approved",
   "level": "A1",
-  "topic": "Getränke",
+  "topic": "Stadt",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T12:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1200/01.jpg",
-  "image_sha256": "be0083a8dbfbda3975547ea3c8da3a9abdf19dc905603492d94092fa57297333",
+  "image_sha256": "9f37ca265c40666b03c270e3742e3d9a858cc510e8fa319d3146b881216619a5",
   "words": [
     {
-      "article": "das",
-      "german": "Getränk",
-      "english": "drink"
+      "article": "die",
+      "german": "Straße",
+      "english": "street"
     },
     {
       "article": "der",
-      "german": "Kakao",
-      "english": "cocoa"
+      "german": "Park",
+      "english": "park"
+    },
+    {
+      "article": "die",
+      "german": "Brücke",
+      "english": "bridge"
+    },
+    {
+      "article": "die",
+      "german": "Ampel",
+      "english": "traffic light"
+    },
+    {
+      "article": "die",
+      "german": "Apotheke",
+      "english": "pharmacy"
     },
     {
       "article": "der",
-      "german": "Durst",
-      "english": "thirst"
-    },
-    {
-      "article": "das",
-      "german": "Wasser",
-      "english": "water"
-    },
-    {
-      "article": "der",
-      "german": "Kaffee",
-      "english": "coffee"
-    },
-    {
-      "article": "der",
-      "german": "Tee",
-      "english": "tea"
+      "german": "Bahnhof",
+      "english": "train station"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-21T12:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1200/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Getränke (Drinks)\n\ndas Getränk = drink\nder Kakao = cocoa\nder Durst = thirst\ndas Wasser = water\nder Kaffee = coffee\nder Tee = tea\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Stadt (City)\n\ndie Straße = street\nder Park = park\ndie Brücke = bridge\ndie Ampel = traffic light\ndie Apotheke = pharmacy\nder Bahnhof = train station\n\n💡 Learn every German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-21T12:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1200/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Getränke (Drinks)\ndas Getränk = drink\nder Kakao = cocoa\nder Durst = thirst\ndas Wasser = water\nder Kaffee = coffee\nder Tee = tea\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 Vocabulary — Stadt (City)\ndie Straße = street\nder Park = park\ndie Brücke = bridge\ndie Ampel = traffic light\ndie Apotheke = pharmacy\nder Bahnhof = train station\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-21T12:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1200/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Getränke (Drinks)\n\ndas Getränk = drink\nder Kakao = cocoa\nder Durst = thirst\ndas Wasser = water\nder Kaffee = coffee\nder Tee = tea\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Stadt (City)\n\ndie Straße = street\nder Park = park\ndie Brücke = bridge\ndie Ampel = traffic light\ndie Apotheke = pharmacy\nder Bahnhof = train station\n\n💡 Learn every German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "expected_bytes": 817687,
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "approved_editorial_original_filename": "german_city_vocabulary_poster.png",
+  "exact_premium_image_git_blob": "e5357c73fef38799bcbf514eee4347111de77196",
+  "visual_source": "Individually approved premium LearnWithReegan JPG, resized 1080x1350; no instructor photo; SHA256 integrity checked"
 }

@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261121-20",
   "status": "approved",
   "level": "A1",
-  "topic": "Verkehr",
+  "topic": "Schule",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T20:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/2000/01.jpg",
-  "image_sha256": "e99ba56635ecb8734a3101232fd17a3c21b32ab10655e226256b71209dc79609",
+  "image_sha256": "5172bf372f42aba6ebf1aa990a9cc2f72a711aa5bbabe3c41104c2f0092a838a",
   "words": [
     {
-      "article": "das",
-      "german": "Auto",
-      "english": "car"
+      "article": "die",
+      "german": "Schule",
+      "english": "school"
     },
     {
       "article": "das",
-      "german": "Taxi",
-      "english": "taxi"
+      "german": "Buch",
+      "english": "book"
+    },
+    {
+      "article": "der",
+      "german": "Bleistift",
+      "english": "pencil"
+    },
+    {
+      "article": "das",
+      "german": "Heft",
+      "english": "notebook"
+    },
+    {
+      "article": "der",
+      "german": "Rucksack",
+      "english": "backpack"
     },
     {
       "article": "die",
-      "german": "U-Bahn",
-      "english": "subway"
-    },
-    {
-      "article": "die",
-      "german": "Straßenbahn",
-      "english": "tram"
-    },
-    {
-      "article": "das",
-      "german": "Flugzeug",
-      "english": "airplane"
-    },
-    {
-      "article": "das",
-      "german": "Schiff",
-      "english": "ship"
+      "german": "Tafel",
+      "english": "blackboard"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-21T20:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/2000/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Verkehr (Transport)\n\ndas Auto = car\ndas Taxi = taxi\ndie U-Bahn = subway\ndie Straßenbahn = tram\ndas Flugzeug = airplane\ndas Schiff = ship\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Schule (School)\n\ndie Schule = school\ndas Buch = book\nder Bleistift = pencil\ndas Heft = notebook\nder Rucksack = backpack\ndie Tafel = blackboard\n\n💡 Learn every German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-21T20:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/2000/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Verkehr (Transport)\ndas Auto = car\ndas Taxi = taxi\ndie U-Bahn = subway\ndie Straßenbahn = tram\ndas Flugzeug = airplane\ndas Schiff = ship\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 Vocabulary — Schule (School)\ndie Schule = school\ndas Buch = book\nder Bleistift = pencil\ndas Heft = notebook\nder Rucksack = backpack\ndie Tafel = blackboard\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-21T20:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/2000/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Verkehr (Transport)\n\ndas Auto = car\ndas Taxi = taxi\ndie U-Bahn = subway\ndie Straßenbahn = tram\ndas Flugzeug = airplane\ndas Schiff = ship\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Schule (School)\n\ndie Schule = school\ndas Buch = book\nder Bleistift = pencil\ndas Heft = notebook\nder Rucksack = backpack\ndie Tafel = blackboard\n\n💡 Learn every German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "expected_bytes": 693479,
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "approved_editorial_original_filename": "a_polished_high_contrast_educational_social_media.png",
+  "exact_premium_image_git_blob": "61c6e9a935a1754b67b204d9b9eb058b4db4b4f2",
+  "visual_source": "Individually approved premium LearnWithReegan JPG, resized 1080x1350; no instructor photo; SHA256 integrity checked"
 }

@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261121-16",
   "status": "approved",
   "level": "A1",
-  "topic": "Stadt",
+  "topic": "Verkehr",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-21T16:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1600/01.jpg",
-  "image_sha256": "e40be0021fe835ac304ce43955b4fe284a984d236f6d6203b5db3b628a44cf94",
+  "image_sha256": "5e0649a02745fa2bc5708d0b8baac1352e14d7f8b53a6e44a6c5d7f133da240a",
   "words": [
     {
-      "article": "die",
-      "german": "Straße",
-      "english": "street"
+      "article": "der",
+      "german": "Bus",
+      "english": "bus"
     },
     {
       "article": "der",
-      "german": "Park",
-      "english": "park"
-    },
-    {
-      "article": "die",
-      "german": "Brücke",
-      "english": "bridge"
-    },
-    {
-      "article": "die",
-      "german": "Ampel",
-      "english": "traffic light"
-    },
-    {
-      "article": "der",
-      "german": "Platz",
-      "english": "square"
+      "german": "Zug",
+      "english": "train"
     },
     {
       "article": "das",
-      "german": "Rathaus",
-      "english": "town hall"
+      "german": "Auto",
+      "english": "car"
+    },
+    {
+      "article": "das",
+      "german": "Fahrrad",
+      "english": "bicycle"
+    },
+    {
+      "article": "die",
+      "german": "U-Bahn",
+      "english": "subway"
+    },
+    {
+      "article": "die",
+      "german": "Fahrkarte",
+      "english": "ticket"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-21T16:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1600/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Stadt (Around the city)\n\ndie Straße = street\nder Park = park\ndie Brücke = bridge\ndie Ampel = traffic light\nder Platz = square\ndas Rathaus = town hall\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Verkehr (Transport)\n\nder Bus = bus\nder Zug = train\ndas Auto = car\ndas Fahrrad = bicycle\ndie U-Bahn = subway\ndie Fahrkarte = ticket\n\n💡 Learn every German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-21T16:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1600/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Stadt (Around the city)\ndie Straße = street\nder Park = park\ndie Brücke = bridge\ndie Ampel = traffic light\nder Platz = square\ndas Rathaus = town hall\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 Vocabulary — Verkehr (Transport)\nder Bus = bus\nder Zug = train\ndas Auto = car\ndas Fahrrad = bicycle\ndie U-Bahn = subway\ndie Fahrkarte = ticket\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-21T16:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/1600/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Stadt (Around the city)\n\ndie Straße = street\nder Park = park\ndie Brücke = bridge\ndie Ampel = traffic light\nder Platz = square\ndas Rathaus = town hall\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Verkehr (Transport)\n\nder Bus = bus\nder Zug = train\ndas Auto = car\ndas Fahrrad = bicycle\ndie U-Bahn = subway\ndie Fahrkarte = ticket\n\n💡 Learn every German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "expected_bytes": 801936,
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "approved_editorial_original_filename": "german_transport_vocabulary_poster.png",
+  "exact_premium_image_git_blob": "535340f19ffff3ce8302a5da5a9f3857ddc1b69b",
+  "visual_source": "Individually approved premium LearnWithReegan JPG, resized 1080x1350; no instructor photo; SHA256 integrity checked"
 }
