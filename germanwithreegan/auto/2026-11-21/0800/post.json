@@ -1,0 +1,61 @@
+{
+  "id": "gwr-auto-20261121-08",
+  "status": "approved",
+  "level": "A1",
+  "topic": "Essen",
+  "generator_version": "a1-v1",
+  "scheduled_at": "2026-11-21T08:00:00+05:30",
+  "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
+  "image_sha256": "fad3b041284c64881f06d84265731bb989d3232217d8ebea5c88d2fb933e74e4",
+  "words": [
+    {
+      "article": "der",
+      "german": "Käse",
+      "english": "cheese"
+    },
+    {
+      "article": "das",
+      "german": "Ei",
+      "english": "egg"
+    },
+    {
+      "article": "der",
+      "german": "Reis",
+      "english": "rice"
+    },
+    {
+      "article": "die",
+      "german": "Suppe",
+      "english": "soup"
+    },
+    {
+      "article": "das",
+      "german": "Fleisch",
+      "english": "meat"
+    },
+    {
+      "article": "der",
+      "german": "Fisch",
+      "english": "fish"
+    }
+  ],
+  "facebook": {
+    "approved": true,
+    "scheduled_at": "2026-11-21T08:00:00+05:30",
+    "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\ndas Fleisch = meat\nder Fisch = fish\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+  },
+  "threads": {
+    "approved": true,
+    "scheduled_at": "2026-11-21T08:00:00+05:30",
+    "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
+    "text": "🇩🇪 A1 Vocabulary — Essen (Food)\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\ndas Fleisch = meat\nder Fisch = fish\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+  },
+  "instagram": {
+    "approved": true,
+    "mode": "image",
+    "scheduled_at": "2026-11-21T08:00:00+05:30",
+    "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-21/0800/01.jpg",
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\ndas Fleisch = meat\nder Fisch = fish\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+  }
+}
