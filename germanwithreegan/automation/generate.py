@@ -147,6 +147,36 @@ def build_one(day,slot):
     manifest.write_text(json.dumps(p,ensure_ascii=False,indent=2)+"\n",encoding="utf8")
     print("BUILT",day.isoformat(),f"{slot:02d}:00",german,dest, len(dest.read_bytes()))
 
+def build_contact_sheet(day):
+    """Actual output previews, not separately generated imagery."""
+    folder=OUT/day.isoformat()
+    images=[]
+    for slot in SLOTS:
+        jpg=folder/f"{slot:02d}00"/"01.jpg"
+        manifest=folder/f"{slot:02d}00"/"post.json"
+        if not (jpg.exists() and manifest.exists()):
+            raise FileNotFoundError("Missing poster/manifest for "+str(day)+" "+str(slot))
+        post=json.loads(manifest.read_text('utf8'))
+        if post.get("generator_version")!="a1-v2":
+            raise ValueError("Old visual style found in "+str(jpg))
+        with Image.open(jpg) as im:
+            images.append(im.convert('RGB').copy())
+    cw,ch=352,440
+    review=Image.new("RGB",(1080,990),"#093F2D")
+    dr=ImageDraw.Draw(review)
+    dr.text((38,16),"LearnWithReegan  |  SIX PREMIUM A1 POSTS",font=font(28,True),fill="#FFFBEF")
+    dr.text((39,56),day.isoformat()+"   •   same locked layout • 00 / 04 / 08 / 12 / 16 / 20 IST",font=font(18,True),fill="#FFE23C")
+    for index,(im,slot) in enumerate(zip(images,SLOTS)):
+        x=10+(index%3)*358
+        y=96+(index//3)*443
+        im.thumbnail((cw,ch),Image.Resampling.LANCZOS)
+        review.paste(im,(x,y))
+        dr.rectangle((x,y,x+cw-1,y+ch-1),outline="#E7F5D4",width=2)
+    target=folder/"six-post-contact-sheet.jpg"
+    review.save(target,format="JPEG",quality=87,optimize=True)
+    print("REVIEW SHEET",target, target.stat().st_size)
+
+
 def main():
     today=datetime.now(ZoneInfo("Asia/Kolkata")).date()
     # Publish is separately gated by date, media hash, account identity and ledger.
@@ -155,6 +185,7 @@ def main():
         day=today+timedelta(days=n)
         for slot in SLOTS:
             build_one(day,slot)
+        build_contact_sheet(day)
 
 if __name__=="__main__":
     main()
