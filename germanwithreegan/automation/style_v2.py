@@ -167,7 +167,7 @@ def banner(im,german,english):
     d.polygon([(344,30),(370,11),(400,29),(371,46)],fill=GOLD)
     d.rectangle((363,41,379,62),fill=GOLD)
     center(d,"LearnWithReegan",572,27,font(39,True),CREAM,shadow="#00120C")
-    center(d,"GERMAN",552,87,font(121,True),CREAM,shadow="#001A13")
+    center(d,"GERMAN",505,96,font(112,True),CREAM,shadow="#001A13")
     # A1 starburst badge
     for r,col in ((98,"#FEDC31"),(91,"#0C4D34")):
         d.ellipse((877-r,111-r/2,877+r,111+1.5*r),fill=col)
