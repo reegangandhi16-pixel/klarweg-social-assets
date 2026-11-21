@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261122-12",
   "status": "approved",
   "level": "A1",
-  "topic": "Körper",
+  "topic": "Tiere",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-22T12:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/1200/01.jpg",
-  "image_sha256": "46affa7fa0b221947b9ceb337d53b4c08ec18bc0377410430a05e02b47fccf02",
+  "image_sha256": "aa4cfcaeccd27283d668e7666e5a24d9c81e41ff8e1a6f8bb55b3290a29be4fb",
   "words": [
     {
       "article": "der",
-      "german": "Fuß",
-      "english": "foot"
-    },
-    {
-      "article": "das",
-      "german": "Auge",
-      "english": "eye"
-    },
-    {
-      "article": "das",
-      "german": "Ohr",
-      "english": "ear"
+      "german": "Hund",
+      "english": "dog"
     },
     {
       "article": "die",
-      "german": "Nase",
-      "english": "nose"
+      "german": "Katze",
+      "english": "cat"
+    },
+    {
+      "article": "das",
+      "german": "Pferd",
+      "english": "horse"
     },
     {
       "article": "der",
-      "german": "Mund",
-      "english": "mouth"
+      "german": "Vogel",
+      "english": "bird"
+    },
+    {
+      "article": "die",
+      "german": "Kuh",
+      "english": "cow"
     },
     {
       "article": "der",
-      "german": "Bauch",
-      "english": "stomach"
+      "german": "Hase",
+      "english": "rabbit"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-22T12:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/1200/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Körper (Body parts)\n\nder Fuß = foot\ndas Auge = eye\ndas Ohr = ear\ndie Nase = nose\nder Mund = mouth\nder Bauch = stomach\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Tiere (Animals)\n\nder Hund = dog\ndie Katze = cat\ndas Pferd = horse\nder Vogel = bird\ndie Kuh = cow\nder Hase = rabbit\n\n🐾 Learn each German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-22T12:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/1200/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Körper (Body parts)\nder Fuß = foot\ndas Auge = eye\ndas Ohr = ear\ndie Nase = nose\nder Mund = mouth\nder Bauch = stomach\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 Vocabulary — Tiere (Animals)\nder Hund = dog\ndie Katze = cat\ndas Pferd = horse\nder Vogel = bird\ndie Kuh = cow\nder Hase = rabbit\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-22T12:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/1200/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Körper (Body parts)\n\nder Fuß = foot\ndas Auge = eye\ndas Ohr = ear\ndie Nase = nose\nder Mund = mouth\nder Bauch = stomach\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Tiere (Animals)\n\nder Hund = dog\ndie Katze = cat\ndas Pferd = horse\nder Vogel = bird\ndie Kuh = cow\nder Hase = rabbit\n\n🐾 Learn each German noun with der, die or das!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "expected_bytes": 692456,
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "exact_premium_image_git_blob": "9ec5ba2d562037a1e9e64f9b7e395b586ce2efdb",
+  "approved_editorial_original_filename": "a_high_quality_colorful_educational_infographic_p.png",
+  "visual_source": "Individually generated premium LearnWithReegan Tiere A1 image, no instructor photograph, 1080x1350 JPG; verified SHA-256"
 }
