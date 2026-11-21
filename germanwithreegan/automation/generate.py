@@ -46,6 +46,28 @@ THEMES = [
  ("Tiere","Animals",[("der","Hund","dog"),("die","Katze","cat"),("der","Vogel","bird"),("der","Fisch","fish"),("das","Pferd","horse"),("die","Kuh","cow"),("das","Schaf","sheep"),("das","Schwein","pig"),("die","Maus","mouse"),("der","Hase","rabbit"),("die","Ente","duck"),("der","Löwe","lion")])
 ]
 
+
+# Explicitly scheduled editorial posts; normal curated rotation remains unchanged.
+# No previously approved dated JPEG or manifest is overwritten.
+SPECIAL_POSTS = {
+    (date(2026, 11, 26), 0): ("Wetter", "Weather", [
+        ("die", "Sonne", "sun"),
+        ("der", "Regen", "rain"),
+        ("der", "Schnee", "snow"),
+        ("der", "Wind", "wind"),
+        ("die", "Wolke", "cloud"),
+        ("das", "Gewitter", "thunderstorm"),
+    ]),
+    (date(2026, 11, 26), 4): ("Musik", "Music", [
+        ("der", "Sänger", "male singer"),
+        ("die", "Sängerin", "female singer"),
+        ("die", "Gitarre", "guitar"),
+        ("das", "Klavier", "piano"),
+        ("die", "Trommel", "drum"),
+        ("das", "Mikrofon", "microphone"),
+    ]),
+}
+
 def font(size, bold=False):
     return ImageFont.truetype(BOLD if bold else FONT, size)
 
@@ -114,6 +136,8 @@ def build_one(day,slot):
     german,english,all_words=THEMES[index]
     start=(n*7+SLOTS.index(slot)*3)%len(all_words)
     words=[all_words[(start+i)%len(all_words)] for i in range(6)]
+    if (day, slot) in SPECIAL_POSTS:
+        german, english, words = SPECIAL_POSTS[(day, slot)]
     assert len(words)==6 and len({a+" "+b for a,b,_ in words})==6
     assert all(a in ("der","die","das") for a,b,c in words)
     path=OUT/day.isoformat()/f"{slot:02d}00"
@@ -180,6 +204,10 @@ def build_contact_sheet(day):
 def main():
     today=datetime.now(ZoneInfo("Asia/Kolkata")).date()
     # Publish is separately gated by date, media hash, account identity and ledger.
+    # Prebuild two explicitly requested first-free slots, leaving older approved posts untouched.
+    if today < date(2026, 11, 26):
+        for special_slot in (0, 4):
+            build_one(date(2026, 11, 26), special_slot)
     # Build today + next two days; each dated file is immutable after creation.
     for n in range(1,4):
         day=today+timedelta(days=n)
