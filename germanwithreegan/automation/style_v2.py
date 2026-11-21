@@ -24,6 +24,7 @@ CATEGORIES={
 "Kleidung":"👕","Körper":"🦵","Natur":"🌳","Freizeit":"🎾",
 "Arbeit":"💻","Badezimmer":"🛀","Einkaufen":"🛍️","Zeit":"⏰",
 "Restaurant":"🍽️","Reisen":"✈️","Haushalt":"🧹","Tiere":"🐈",
+"Wetter":"🌦️","Musik":"🎶",
 }
 # Illustrations are fixed per word and never supplied by an unconstrained AI.
 OBJECTS={
@@ -87,7 +88,9 @@ OBJECTS={
 "Müll":"🗑️","Treppe":"🪜","Wohnung":"🏠",
 "Hund":"🐕","Katze":"🐈","Vogel":"🐦","Pferd":"🐎",
 "Kuh":"🐄","Schaf":"🐑","Schwein":"🐖","Maus":"🐁",
-"Hase":"🐇","Ente":"🦆","Löwe":"🦁"
+"Hase":"🐇","Ente":"🦆","Löwe":"🦁",
+"Gewitter":"⛈️","Sänger":"🎤","Sängerin":"🎤","Gitarre":"🎸",
+"Klavier":"🎹","Trommel":"🥁","Mikrofon":"🎙️"
 }
 # A sample house, furniture or animal must have its own relevant emoji.
 ARTICLES={"der":"#1466C0","die":"#D3182E","das":"#1E8F4B"}
