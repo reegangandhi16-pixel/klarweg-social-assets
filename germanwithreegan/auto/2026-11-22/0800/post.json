@@ -2,60 +2,66 @@
   "id": "gwr-auto-20261122-08",
   "status": "approved",
   "level": "A1",
-  "topic": "Kleidung",
+  "topic": "Körper",
   "generator_version": "a1-v2",
   "scheduled_at": "2026-11-22T08:00:00+05:30",
   "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0800/01.jpg",
-  "image_sha256": "0fe78f9b39627350456c05540389df0ad884585a79c074eff5c2d1a95018aab2",
+  "image_sha256": "0c0211634583b9f00d7289ca0494ffad4126d58d97f00bfd33e532d6a2c19789",
   "words": [
     {
-      "article": "das",
-      "german": "Hemd",
-      "english": "shirt"
-    },
-    {
-      "article": "das",
-      "german": "Kleid",
-      "english": "dress"
-    },
-    {
       "article": "der",
-      "german": "Rock",
-      "english": "skirt"
+      "german": "Kopf",
+      "english": "head"
     },
     {
       "article": "die",
-      "german": "Jacke",
-      "english": "jacket"
+      "german": "Hand",
+      "english": "hand"
     },
     {
       "article": "der",
-      "german": "Mantel",
-      "english": "coat"
+      "german": "Arm",
+      "english": "arm"
+    },
+    {
+      "article": "das",
+      "german": "Bein",
+      "english": "leg"
     },
     {
       "article": "der",
-      "german": "Pullover",
-      "english": "sweater"
+      "german": "Fuß",
+      "english": "foot"
+    },
+    {
+      "article": "das",
+      "german": "Auge",
+      "english": "eye"
     }
   ],
   "facebook": {
     "approved": true,
     "scheduled_at": "2026-11-22T08:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0800/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Kleidung (Clothes)\n\ndas Hemd = shirt\ndas Kleid = dress\nder Rock = skirt\ndie Jacke = jacket\nder Mantel = coat\nder Pullover = sweater\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Körper (Body Parts)\n\nder Kopf = head\ndie Hand = hand\nder Arm = arm\ndas Bein = leg\nder Fuß = foot\ndas Auge = eye\n\n💡 Learn the article with every German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
   },
   "threads": {
     "approved": true,
     "scheduled_at": "2026-11-22T08:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0800/01.jpg",
-    "text": "🇩🇪 A1 Vocabulary — Kleidung (Clothes)\ndas Hemd = shirt\ndas Kleid = dress\nder Rock = skirt\ndie Jacke = jacket\nder Mantel = coat\nder Pullover = sweater\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+    "text": "🇩🇪 A1 Vocabulary — Körper (Body Parts)\nder Kopf = head\ndie Hand = hand\nder Arm = arm\ndas Bein = leg\nder Fuß = foot\ndas Auge = eye\n\n💬 How many did you know?\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman"
   },
   "instagram": {
     "approved": true,
     "mode": "image",
     "scheduled_at": "2026-11-22T08:00:00+05:30",
     "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-11-22/0800/01.jpg",
-    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Kleidung (Clothes)\n\ndas Hemd = shirt\ndas Kleid = dress\nder Rock = skirt\ndie Jacke = jacket\nder Mantel = coat\nder Pullover = sweater\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
-  }
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Körper (Body Parts)\n\nder Kopf = head\ndie Hand = hand\nder Arm = arm\ndas Bein = leg\nder Fuß = foot\ndas Auge = eye\n\n💡 Learn the article with every German noun!\n💬 How many words did you know? Comment below!\n🌐 https://klarweg.in\n#GermanA1 #LearnGerman #GermanVocabulary #DeutschLernen #LearnWithReegan"
+  },
+  "expected_bytes": 661583,
+  "asset_status": "uploaded_verified",
+  "approved_artwork": true,
+  "exact_premium_image_git_blob": "82ce65d6f8bc03b443d91aa64bcca5e7881b6c0f",
+  "approved_editorial_original_filename": "a_crisp_vibrant_educational_poster_image_vertica.png",
+  "visual_source": "Premium LearnWithReegan Körper A1 visual generated individually, no instructor photograph, 1080x1350 JPEG; verified SHA-256"
 }
