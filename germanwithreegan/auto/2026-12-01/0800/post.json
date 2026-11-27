@@ -1,0 +1,61 @@
+{
+  "id": "gwr-auto-20261201-08",
+  "status": "approved",
+  "level": "A1",
+  "topic": "Essen",
+  "generator_version": "a1-v2",
+  "scheduled_at": "2026-12-01T08:00:00+05:30",
+  "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-12-01/0800/01.jpg",
+  "image_sha256": "a64c4abab4527ff3665b06e158bfeb83928df7c5c9af1e1b4388a61d1db32eac",
+  "words": [
+    {
+      "article": "die",
+      "german": "Tomate",
+      "english": "tomato"
+    },
+    {
+      "article": "die",
+      "german": "Gurke",
+      "english": "cucumber"
+    },
+    {
+      "article": "der",
+      "german": "Käse",
+      "english": "cheese"
+    },
+    {
+      "article": "das",
+      "german": "Ei",
+      "english": "egg"
+    },
+    {
+      "article": "der",
+      "german": "Reis",
+      "english": "rice"
+    },
+    {
+      "article": "die",
+      "german": "Suppe",
+      "english": "soup"
+    }
+  ],
+  "facebook": {
+    "approved": true,
+    "scheduled_at": "2026-12-01T08:00:00+05:30",
+    "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-12-01/0800/01.jpg",
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\ndie Tomate = tomato\ndie Gurke = cucumber\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+  },
+  "threads": {
+    "approved": true,
+    "scheduled_at": "2026-12-01T08:00:00+05:30",
+    "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-12-01/0800/01.jpg",
+    "text": "🇩🇪 A1 Vocabulary — Essen (Food)\ndie Tomate = tomato\ndie Gurke = cucumber\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\n\n💬 Which one did you know?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1"
+  },
+  "instagram": {
+    "approved": true,
+    "mode": "image",
+    "scheduled_at": "2026-12-01T08:00:00+05:30",
+    "image_url": "https://raw.githubusercontent.com/reegangandhi16-pixel/klarweg-social-assets/main/germanwithreegan/auto/2026-12-01/0800/01.jpg",
+    "caption": "🇩🇪 A1 GERMAN VOCABULARY: Essen (Food)\n\ndie Tomate = tomato\ndie Gurke = cucumber\nder Käse = cheese\ndas Ei = egg\nder Reis = rice\ndie Suppe = soup\n\n💡 Tip: Learn der/die/das with every noun.\n💬 Which word was new for you?\n🌐 https://klarweg.in\n#LearnGerman #GermanA1 #DeutschLernen #LearnWithReegan"
+  }
+}
